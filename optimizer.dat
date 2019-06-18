@@ -21,5 +21,4 @@ load param_q.csv : [K, m, v] q;
 load param_Q_max.csv : [K] Q_max;
 load param_s.csv : [K] s;
 load sparse_index.csv format=set : KP;
-load sparse_index2.csv format=set : KPNR;
 load param_r.csv : [K, P] r;

@@ -1,0 +1,3134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+ <Ident>K_Verbund</Ident>
+ <Version>1012</Version>
+ <Data>
+  <K_LMSiteNo>2</K_LMSiteNo>
+  <K_component>
+   <K_name>K1</K_name>
+   <K_id>1</K_id>
+   <K_Type>0</K_Type>
+   <K_nameUnit>kg</K_nameUnit>
+   <K_Comment>liquid</K_Comment>
+   <K_group>intermediate</K_group>
+   <K_ConversionKG>1</K_ConversionKG>
+   <K_ConversionTelquel>1</K_ConversionTelquel>
+   <K_BASIS_individual />
+   <K_BASIS_name />
+   <K_CAS_number />
+   <K_WSBName />
+   <K_CompDevRelevant>yes</K_CompDevRelevant>
+   <K_CompBalRelevant>yes</K_CompBalRelevant>
+        </K_component>
+  <K_component>
+   <K_name>K2</K_name>
+   <K_id>2</K_id>
+   <K_Type>0</K_Type>
+   <K_nameUnit>kg</K_nameUnit>
+   <K_Comment>liquid</K_Comment>
+   <K_group>intermediate</K_group>
+   <K_ConversionKG>1</K_ConversionKG>
+   <K_ConversionTelquel>1</K_ConversionTelquel>
+   <K_BASIS_individual />
+   <K_BASIS_name />
+   <K_CAS_number />
+   <K_WSBName />
+   <K_CompDevRelevant>yes</K_CompDevRelevant>
+   <K_CompBalRelevant>yes</K_CompBalRelevant>
+        </K_component>
+  <K_component>
+   <K_name>K3</K_name>
+   <K_id>3</K_id>
+   <K_Type>0</K_Type>
+   <K_nameUnit>kg</K_nameUnit>
+   <K_Comment>liquid</K_Comment>
+   <K_group>intermediate</K_group>
+   <K_ConversionKG>1</K_ConversionKG>
+   <K_ConversionTelquel>1</K_ConversionTelquel>
+   <K_BASIS_individual />
+   <K_BASIS_name />
+   <K_CAS_number />
+   <K_WSBName />
+   <K_CompDevRelevant>yes</K_CompDevRelevant>
+   <K_CompBalRelevant>yes</K_CompBalRelevant>
+        </K_component>
+  <K_component>
+   <K_name>K4</K_name>
+   <K_id>4</K_id>
+   <K_Type>0</K_Type>
+   <K_nameUnit>kg</K_nameUnit>
+   <K_Comment>liquid</K_Comment>
+   <K_group>intermediate</K_group>
+   <K_ConversionKG>1</K_ConversionKG>
+   <K_ConversionTelquel>1</K_ConversionTelquel>
+   <K_BASIS_individual />
+   <K_BASIS_name />
+   <K_CAS_number />
+   <K_WSBName />
+   <K_CompDevRelevant>yes</K_CompDevRelevant>
+   <K_CompBalRelevant>yes</K_CompBalRelevant>
+        </K_component>
+  <K_component>
+   <K_name>K5</K_name>
+   <K_id>5</K_id>
+   <K_Type>0</K_Type>
+   <K_nameUnit>kg</K_nameUnit>
+   <K_Comment>liquid</K_Comment>
+   <K_group>intermediate</K_group>
+   <K_ConversionKG>1</K_ConversionKG>
+   <K_ConversionTelquel>1</K_ConversionTelquel>
+   <K_BASIS_individual />
+   <K_BASIS_name />
+   <K_CAS_number />
+   <K_WSBName />
+   <K_CompDevRelevant>yes</K_CompDevRelevant>
+   <K_CompBalRelevant>yes</K_CompBalRelevant>
+        </K_component>
+  <K_component>
+   <K_name>K6</K_name>
+   <K_id>6</K_id>
+   <K_Type>0</K_Type>
+   <K_nameUnit>kg</K_nameUnit>
+   <K_Comment>liquid</K_Comment>
+   <K_group>intermediate</K_group>
+   <K_ConversionKG>1</K_ConversionKG>
+   <K_ConversionTelquel>1</K_ConversionTelquel>
+   <K_BASIS_individual />
+   <K_BASIS_name />
+   <K_CAS_number />
+   <K_WSBName />
+   <K_CompDevRelevant>yes</K_CompDevRelevant>
+   <K_CompBalRelevant>yes</K_CompBalRelevant>
+        </K_component>
+  <K_component>
+   <K_name>K7</K_name>
+   <K_id>7</K_id>
+   <K_Type>0</K_Type>
+   <K_nameUnit>kg</K_nameUnit>
+   <K_Comment>liquid</K_Comment>
+   <K_group>intermediate</K_group>
+   <K_ConversionKG>1</K_ConversionKG>
+   <K_ConversionTelquel>1</K_ConversionTelquel>
+   <K_BASIS_individual />
+   <K_BASIS_name />
+   <K_CAS_number />
+   <K_WSBName />
+   <K_CompDevRelevant>yes</K_CompDevRelevant>
+   <K_CompBalRelevant>yes</K_CompBalRelevant>
+        </K_component>
+  <K_component>
+   <K_name>K8</K_name>
+   <K_id>8</K_id>
+   <K_Type>0</K_Type>
+   <K_nameUnit>kg</K_nameUnit>
+   <K_Comment>liquid</K_Comment>
+   <K_group>intermediate</K_group>
+   <K_ConversionKG>1</K_ConversionKG>
+   <K_ConversionTelquel>1</K_ConversionTelquel>
+   <K_BASIS_individual />
+   <K_BASIS_name />
+   <K_CAS_number />
+   <K_WSBName />
+   <K_CompDevRelevant>yes</K_CompDevRelevant>
+   <K_CompBalRelevant>yes</K_CompBalRelevant>
+        </K_component>
+  <K_component>
+   <K_name>K9</K_name>
+   <K_id>9</K_id>
+   <K_Type>0</K_Type>
+   <K_nameUnit>kg</K_nameUnit>
+   <K_Comment>liquid</K_Comment>
+   <K_group>intermediate</K_group>
+   <K_ConversionKG>1</K_ConversionKG>
+   <K_ConversionTelquel>1</K_ConversionTelquel>
+   <K_BASIS_individual />
+   <K_BASIS_name />
+   <K_CAS_number />
+   <K_WSBName />
+   <K_CompDevRelevant>yes</K_CompDevRelevant>
+   <K_CompBalRelevant>yes</K_CompBalRelevant>
+        </K_component>
+  <K_component>
+   <K_name>K10</K_name>
+   <K_id>10</K_id>
+   <K_Type>0</K_Type>
+   <K_nameUnit>kg</K_nameUnit>
+   <K_Comment>liquid</K_Comment>
+   <K_group>intermediate</K_group>
+   <K_ConversionKG>1</K_ConversionKG>
+   <K_ConversionTelquel>1</K_ConversionTelquel>
+   <K_BASIS_individual />
+   <K_BASIS_name />
+   <K_CAS_number />
+   <K_WSBName />
+   <K_CompDevRelevant>yes</K_CompDevRelevant>
+   <K_CompBalRelevant>yes</K_CompBalRelevant>
+        </K_component>
+  <K_component>
+   <K_name>K11</K_name>
+   <K_id>11</K_id>
+   <K_Type>0</K_Type>
+   <K_nameUnit>kg</K_nameUnit>
+   <K_Comment>liquid</K_Comment>
+   <K_group>intermediate</K_group>
+   <K_ConversionKG>1</K_ConversionKG>
+   <K_ConversionTelquel>1</K_ConversionTelquel>
+   <K_BASIS_individual />
+   <K_BASIS_name />
+   <K_CAS_number />
+   <K_WSBName />
+   <K_CompDevRelevant>yes</K_CompDevRelevant>
+   <K_CompBalRelevant>yes</K_CompBalRelevant>
+        </K_component>
+  <K_component>
+   <K_name>K12</K_name>
+   <K_id>12</K_id>
+   <K_Type>0</K_Type>
+   <K_nameUnit>kg</K_nameUnit>
+   <K_Comment>liquid</K_Comment>
+   <K_group>intermediate</K_group>
+   <K_ConversionKG>1</K_ConversionKG>
+   <K_ConversionTelquel>1</K_ConversionTelquel>
+   <K_BASIS_individual />
+   <K_BASIS_name />
+   <K_CAS_number />
+   <K_WSBName />
+   <K_CompDevRelevant>yes</K_CompDevRelevant>
+   <K_CompBalRelevant>yes</K_CompBalRelevant>
+        </K_component>
+  <K_component>
+   <K_name>K13</K_name>
+   <K_id>13</K_id>
+   <K_Type>0</K_Type>
+   <K_nameUnit>kg</K_nameUnit>
+   <K_Comment>liquid</K_Comment>
+   <K_group>intermediate</K_group>
+   <K_ConversionKG>1</K_ConversionKG>
+   <K_ConversionTelquel>1</K_ConversionTelquel>
+   <K_BASIS_individual />
+   <K_BASIS_name />
+   <K_CAS_number />
+   <K_WSBName />
+   <K_CompDevRelevant>yes</K_CompDevRelevant>
+   <K_CompBalRelevant>yes</K_CompBalRelevant>
+        </K_component>
+  <K_component>
+   <K_name>K14</K_name>
+   <K_id>14</K_id>
+   <K_Type>0</K_Type>
+   <K_nameUnit>kg</K_nameUnit>
+   <K_Comment>liquid</K_Comment>
+   <K_group>intermediate</K_group>
+   <K_ConversionKG>1</K_ConversionKG>
+   <K_ConversionTelquel>1</K_ConversionTelquel>
+   <K_BASIS_individual />
+   <K_BASIS_name />
+   <K_CAS_number />
+   <K_WSBName />
+   <K_CompDevRelevant>yes</K_CompDevRelevant>
+   <K_CompBalRelevant>yes</K_CompBalRelevant>
+        </K_component>
+  <K_component>
+   <K_name>K15</K_name>
+   <K_id>15</K_id>
+   <K_Type>0</K_Type>
+   <K_nameUnit>kg</K_nameUnit>
+   <K_Comment>liquid</K_Comment>
+   <K_group>intermediate</K_group>
+   <K_ConversionKG>1</K_ConversionKG>
+   <K_ConversionTelquel>1</K_ConversionTelquel>
+   <K_BASIS_individual />
+   <K_BASIS_name />
+   <K_CAS_number />
+   <K_WSBName />
+   <K_CompDevRelevant>yes</K_CompDevRelevant>
+   <K_CompBalRelevant>yes</K_CompBalRelevant>
+        </K_component>
+  <K_component>
+   <K_name>K16</K_name>
+   <K_id>16</K_id>
+   <K_Type>0</K_Type>
+   <K_nameUnit>kg</K_nameUnit>
+   <K_Comment>liquid</K_Comment>
+   <K_group>intermediate</K_group>
+   <K_ConversionKG>1</K_ConversionKG>
+   <K_ConversionTelquel>1</K_ConversionTelquel>
+   <K_BASIS_individual />
+   <K_BASIS_name />
+   <K_CAS_number />
+   <K_WSBName />
+   <K_CompDevRelevant>yes</K_CompDevRelevant>
+   <K_CompBalRelevant>yes</K_CompBalRelevant>
+        </K_component>
+  <K_component>
+   <K_name>K17</K_name>
+   <K_id>17</K_id>
+   <K_Type>0</K_Type>
+   <K_nameUnit>kg</K_nameUnit>
+   <K_Comment>liquid</K_Comment>
+   <K_group>intermediate</K_group>
+   <K_ConversionKG>1</K_ConversionKG>
+   <K_ConversionTelquel>1</K_ConversionTelquel>
+   <K_BASIS_individual />
+   <K_BASIS_name />
+   <K_CAS_number />
+   <K_WSBName />
+   <K_CompDevRelevant>yes</K_CompDevRelevant>
+   <K_CompBalRelevant>yes</K_CompBalRelevant>
+        </K_component>
+  <K_unit>
+   <K_id>B</K_id>
+   <K_name>Plant B</K_name>
+   <K_Type>0</K_Type>
+   <K_posX>1</K_posX>
+   <K_posY>1</K_posY>
+   <K_CostCenter>200000</K_CostCenter>
+   <K_considerbounds>0</K_considerbounds>
+   <K_ValidFrom>01.01.2000</K_ValidFrom>
+   <K_ValidUntil>31.12.2099</K_ValidUntil>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_PlantManName />
+   <K_PlantManTelefon />
+   <K_PlantManBuilding />
+   <K_YearOpHours>8000</K_YearOpHours>
+   <K_YearRepair>0</K_YearRepair>
+   <K_YearClean>0</K_YearClean>
+   <K_BWMainVersion>1</K_BWMainVersion>
+   <K_BWMainVersionDate />
+   <K_UEnforceMinLoad>no</K_UEnforceMinLoad>
+   <K_MinCapacity>0</K_MinCapacity>
+   <K_MaxCapacity>100</K_MaxCapacity>
+   <K_UnitTimeMinLoad>no</K_UnitTimeMinLoad>
+   <K_unitOpMode>
+    <K_name>40000000_0100</K_name>
+    <K_Description />
+    <K_OpModeType>Production</K_OpModeType>
+    <K_ValidFrom>01.01.2000</K_ValidFrom>
+    <K_ValidUntil>31.12.2099</K_ValidUntil>
+    <K_UMValidSMRelevant>yes</K_UMValidSMRelevant>
+    <K_UMYearCapacity>10000000</K_UMYearCapacity>
+    <K_UMPriority>1</K_UMPriority>
+    <K_UMAutoSplit>0</K_UMAutoSplit>
+    <K_UMCalcProd>no</K_UMCalcProd>
+    <K_UMManualSplit>0</K_UMManualSplit>
+    <K_UMSplitType>remainder</K_UMSplitType>
+    <K_UMPriorityMainProduct>2</K_UMPriorityMainProduct>
+    <K_UMFromSAP>no</K_UMFromSAP>
+    <K_UMSplitPropReferenceUOM />
+    <K_UMSplitPropReferencePart>0</K_UMSplitPropReferencePart>
+    <K_UMSplitFixedCapacity>1</K_UMSplitFixedCapacity>
+    <K_IterType>M</K_IterType>
+    <K_BWMainVersion>1</K_BWMainVersion>
+    <K_BWMainVersionDate />
+    <K_recipe>
+     <K_id>1</K_id>
+     <K_name />
+     <K_RefLoad>100.0</K_RefLoad>
+     <K_secrecvalue>1.0</K_secrecvalue>
+     <K_component_proc>
+      <K_component>4</K_component>
+      <K_value>100.0</K_value>
+      <K_EndProduct>1</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>2</K_component>
+      <K_value>-150.0</K_value>
+      <K_EndProduct>2</K_EndProduct>
+                    </K_component_proc>
+                </K_recipe>
+            </K_unitOpMode>
+   <K_unitOpMode>
+    <K_name>50000000_0200</K_name>
+    <K_Description />
+    <K_OpModeType>Production</K_OpModeType>
+    <K_ValidFrom>01.01.2000</K_ValidFrom>
+    <K_ValidUntil>31.12.2099</K_ValidUntil>
+    <K_UMValidSMRelevant>yes</K_UMValidSMRelevant>
+    <K_UMYearCapacity>30000000</K_UMYearCapacity>
+    <K_UMPriority>1</K_UMPriority>
+    <K_UMAutoSplit>0</K_UMAutoSplit>
+    <K_UMCalcProd>no</K_UMCalcProd>
+    <K_UMManualSplit>1</K_UMManualSplit>
+    <K_UMSplitType>manual</K_UMSplitType>
+    <K_UMPriorityMainProduct>0</K_UMPriorityMainProduct>
+    <K_UMFromSAP>no</K_UMFromSAP>
+    <K_UMSplitPropReferenceUOM />
+    <K_UMSplitPropReferencePart>0</K_UMSplitPropReferencePart>
+    <K_UMSplitFixedCapacity>1</K_UMSplitFixedCapacity>
+    <K_IterType>M</K_IterType>
+    <K_BWMainVersion>1</K_BWMainVersion>
+    <K_BWMainVersionDate />
+    <K_recipe>
+     <K_id>1</K_id>
+     <K_name />
+     <K_RefLoad>100.0</K_RefLoad>
+     <K_secrecvalue>1.0</K_secrecvalue>
+     <K_component_proc>
+      <K_component>5</K_component>
+      <K_value>100.0</K_value>
+      <K_EndProduct>1</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>2</K_component>
+      <K_value>-125.0</K_value>
+      <K_EndProduct>2</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>14</K_component>
+      <K_value>10.0</K_value>
+      <K_EndProduct>3</K_EndProduct>
+                    </K_component_proc>
+                </K_recipe>
+            </K_unitOpMode>
+   <K_pfolio>
+    <K_name>EM_001</K_name>
+    <K_ophours>8760.0</K_ophours>
+    <K_unitModeData>
+     <K_vum>40000000_0100</K_vum>
+     <K_percentage>49.436902378566</K_percentage>
+     <K_load>79.491181547619</K_load>
+     <K_CPFactor>0.0</K_CPFactor>
+     <K_LastTarget>491.224723</K_LastTarget>
+                </K_unitModeData>
+    <K_unitModeData>
+     <K_vum>50000000_0200</K_vum>
+     <K_percentage>41.887298534676</K_percentage>
+     <K_load>79.491181547619</K_load>
+     <K_CPFactor>0.0</K_CPFactor>
+     <K_LastTarget>1248.626570</K_LastTarget>
+                </K_unitModeData>
+            </K_pfolio>
+        </K_unit>
+  <K_unit>
+   <K_id>C</K_id>
+   <K_name>Plant C</K_name>
+   <K_Type>0</K_Type>
+   <K_posX>1</K_posX>
+   <K_posY>1</K_posY>
+   <K_CostCenter>300000</K_CostCenter>
+   <K_considerbounds>0</K_considerbounds>
+   <K_ValidFrom>01.01.2000</K_ValidFrom>
+   <K_ValidUntil>31.12.2099</K_ValidUntil>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_PlantManName />
+   <K_PlantManTelefon />
+   <K_PlantManBuilding />
+   <K_YearOpHours>4000</K_YearOpHours>
+   <K_YearRepair>0</K_YearRepair>
+   <K_YearClean>0</K_YearClean>
+   <K_BWMainVersion>1</K_BWMainVersion>
+   <K_BWMainVersionDate />
+   <K_UEnforceMinLoad>no</K_UEnforceMinLoad>
+   <K_MinCapacity>0</K_MinCapacity>
+   <K_MaxCapacity>100</K_MaxCapacity>
+   <K_UnitTimeMinLoad>no</K_UnitTimeMinLoad>
+   <K_unitOpMode>
+    <K_name>60000000_0100</K_name>
+    <K_Description />
+    <K_OpModeType>Production</K_OpModeType>
+    <K_ValidFrom>01.01.2000</K_ValidFrom>
+    <K_ValidUntil>31.12.2099</K_ValidUntil>
+    <K_UMValidSMRelevant>yes</K_UMValidSMRelevant>
+    <K_UMYearCapacity>2000000</K_UMYearCapacity>
+    <K_UMPriority>1</K_UMPriority>
+    <K_UMAutoSplit>0</K_UMAutoSplit>
+    <K_UMCalcProd>no</K_UMCalcProd>
+    <K_UMManualSplit>0</K_UMManualSplit>
+    <K_UMSplitType>remainder</K_UMSplitType>
+    <K_UMPriorityMainProduct>1</K_UMPriorityMainProduct>
+    <K_UMFromSAP>no</K_UMFromSAP>
+    <K_UMSplitPropReferenceUOM />
+    <K_UMSplitPropReferencePart>0</K_UMSplitPropReferencePart>
+    <K_UMSplitFixedCapacity>1</K_UMSplitFixedCapacity>
+    <K_IterType>M</K_IterType>
+    <K_BWMainVersion>1</K_BWMainVersion>
+    <K_BWMainVersionDate />
+    <K_recipe>
+     <K_id>1</K_id>
+     <K_name />
+     <K_RefLoad>100.0</K_RefLoad>
+     <K_secrecvalue>1.0</K_secrecvalue>
+     <K_component_proc>
+      <K_component>6</K_component>
+      <K_value>100.0</K_value>
+      <K_EndProduct>1</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>4</K_component>
+      <K_value>-150.0</K_value>
+      <K_EndProduct>2</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>5</K_component>
+      <K_value>-1.0</K_value>
+      <K_EndProduct>2</K_EndProduct>
+                    </K_component_proc>
+                </K_recipe>
+            </K_unitOpMode>
+   <K_pfolio>
+    <K_name>EM_001</K_name>
+    <K_ophours>8760.0</K_ophours>
+    <K_unitModeData>
+     <K_vum>60000000_0100</K_vum>
+     <K_percentage>45.662100456621</K_percentage>
+     <K_load>62.500000000000</K_load>
+     <K_CPFactor>0.0</K_CPFactor>
+     <K_LastTarget>142.694064</K_LastTarget>
+                </K_unitModeData>
+            </K_pfolio>
+        </K_unit>
+  <K_unit>
+   <K_id>D</K_id>
+   <K_name>Plant D</K_name>
+   <K_Type>0</K_Type>
+   <K_posX>1</K_posX>
+   <K_posY>1</K_posY>
+   <K_CostCenter>400000</K_CostCenter>
+   <K_considerbounds>0</K_considerbounds>
+   <K_ValidFrom>01.01.2000</K_ValidFrom>
+   <K_ValidUntil>31.12.2099</K_ValidUntil>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_PlantManName />
+   <K_PlantManTelefon />
+   <K_PlantManBuilding />
+   <K_YearOpHours>6000</K_YearOpHours>
+   <K_YearRepair>0</K_YearRepair>
+   <K_YearClean>0</K_YearClean>
+   <K_BWMainVersion>1</K_BWMainVersion>
+   <K_BWMainVersionDate />
+   <K_UEnforceMinLoad>no</K_UEnforceMinLoad>
+   <K_MinCapacity>0</K_MinCapacity>
+   <K_MaxCapacity>50</K_MaxCapacity>
+   <K_UnitTimeMinLoad>no</K_UnitTimeMinLoad>
+   <K_unitOpMode>
+    <K_name>70000000_0100</K_name>
+    <K_Description />
+    <K_OpModeType>Production</K_OpModeType>
+    <K_ValidFrom>01.01.2000</K_ValidFrom>
+    <K_ValidUntil>31.12.2099</K_ValidUntil>
+    <K_UMValidSMRelevant>yes</K_UMValidSMRelevant>
+    <K_UMYearCapacity>3000000</K_UMYearCapacity>
+    <K_UMPriority>1</K_UMPriority>
+    <K_UMAutoSplit>0</K_UMAutoSplit>
+    <K_UMCalcProd>no</K_UMCalcProd>
+    <K_UMManualSplit>0</K_UMManualSplit>
+    <K_UMSplitType>remainder</K_UMSplitType>
+    <K_UMPriorityMainProduct>1</K_UMPriorityMainProduct>
+    <K_UMFromSAP>no</K_UMFromSAP>
+    <K_UMSplitPropReferenceUOM />
+    <K_UMSplitPropReferencePart>0</K_UMSplitPropReferencePart>
+    <K_UMSplitFixedCapacity>1</K_UMSplitFixedCapacity>
+    <K_IterType>M</K_IterType>
+    <K_BWMainVersion>1</K_BWMainVersion>
+    <K_BWMainVersionDate />
+    <K_recipe>
+     <K_id>1</K_id>
+     <K_name />
+     <K_RefLoad>100.0</K_RefLoad>
+     <K_secrecvalue>1.0</K_secrecvalue>
+     <K_component_proc>
+      <K_component>7</K_component>
+      <K_value>100.0</K_value>
+      <K_EndProduct>1</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>4</K_component>
+      <K_value>-80.0</K_value>
+      <K_EndProduct>2</K_EndProduct>
+                    </K_component_proc>
+                </K_recipe>
+            </K_unitOpMode>
+   <K_pfolio>
+    <K_name>EM_001</K_name>
+    <K_ophours>8760.0</K_ophours>
+    <K_unitModeData>
+     <K_vum>70000000_0100</K_vum>
+     <K_percentage>68.493150684932</K_percentage>
+     <K_load>95.070833333333</K_load>
+     <K_CPFactor>0.0</K_CPFactor>
+     <K_LastTarget>325.585046</K_LastTarget>
+                </K_unitModeData>
+            </K_pfolio>
+        </K_unit>
+  <K_unit>
+   <K_id>E</K_id>
+   <K_name>Plant E</K_name>
+   <K_Type>0</K_Type>
+   <K_posX>1</K_posX>
+   <K_posY>1</K_posY>
+   <K_CostCenter>500000</K_CostCenter>
+   <K_considerbounds>0</K_considerbounds>
+   <K_ValidFrom>01.01.2000</K_ValidFrom>
+   <K_ValidUntil>31.12.2099</K_ValidUntil>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_PlantManName />
+   <K_PlantManTelefon />
+   <K_PlantManBuilding />
+   <K_YearOpHours>6000</K_YearOpHours>
+   <K_YearRepair>0</K_YearRepair>
+   <K_YearClean>0</K_YearClean>
+   <K_BWMainVersion>1</K_BWMainVersion>
+   <K_BWMainVersionDate />
+   <K_UEnforceMinLoad>no</K_UEnforceMinLoad>
+   <K_MinCapacity>0</K_MinCapacity>
+   <K_MaxCapacity>100</K_MaxCapacity>
+   <K_UnitTimeMinLoad>no</K_UnitTimeMinLoad>
+   <K_unitOpMode>
+    <K_name>80000000_0100</K_name>
+    <K_Description />
+    <K_OpModeType>Production</K_OpModeType>
+    <K_ValidFrom>01.01.2000</K_ValidFrom>
+    <K_ValidUntil>31.12.2099</K_ValidUntil>
+    <K_UMValidSMRelevant>yes</K_UMValidSMRelevant>
+    <K_UMYearCapacity>2000000</K_UMYearCapacity>
+    <K_UMPriority>1</K_UMPriority>
+    <K_UMAutoSplit>0</K_UMAutoSplit>
+    <K_UMCalcProd>no</K_UMCalcProd>
+    <K_UMManualSplit>0</K_UMManualSplit>
+    <K_UMSplitType>remainder</K_UMSplitType>
+    <K_UMPriorityMainProduct>1</K_UMPriorityMainProduct>
+    <K_UMFromSAP>no</K_UMFromSAP>
+    <K_UMSplitPropReferenceUOM />
+    <K_UMSplitPropReferencePart>0</K_UMSplitPropReferencePart>
+    <K_UMSplitFixedCapacity>1</K_UMSplitFixedCapacity>
+    <K_IterType>M</K_IterType>
+    <K_BWMainVersion>1</K_BWMainVersion>
+    <K_BWMainVersionDate />
+    <K_recipe>
+     <K_id>1</K_id>
+     <K_name />
+     <K_RefLoad>100.0</K_RefLoad>
+     <K_secrecvalue>1.0</K_secrecvalue>
+     <K_component_proc>
+      <K_component>8</K_component>
+      <K_value>100.0</K_value>
+      <K_EndProduct>1</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>5</K_component>
+      <K_value>-125.0</K_value>
+      <K_EndProduct>2</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>10</K_component>
+      <K_value>-1.0</K_value>
+      <K_EndProduct>2</K_EndProduct>
+                    </K_component_proc>
+                </K_recipe>
+            </K_unitOpMode>
+   <K_pfolio>
+    <K_name>EM_001</K_name>
+    <K_ophours>8760.0</K_ophours>
+    <K_unitModeData>
+     <K_vum>80000000_0100</K_vum>
+     <K_percentage>68.493150684932</K_percentage>
+     <K_load>12.500000000000</K_load>
+     <K_CPFactor>0.0</K_CPFactor>
+     <K_LastTarget>28.538813</K_LastTarget>
+                </K_unitModeData>
+            </K_pfolio>
+        </K_unit>
+  <K_unit>
+   <K_id>A</K_id>
+   <K_name>Plant A</K_name>
+   <K_Type>0</K_Type>
+   <K_posX>1</K_posX>
+   <K_posY>1</K_posY>
+   <K_CostCenter>100000</K_CostCenter>
+   <K_considerbounds>1</K_considerbounds>
+   <K_ValidFrom>01.01.2000</K_ValidFrom>
+   <K_ValidUntil>31.12.2099</K_ValidUntil>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_PlantManName />
+   <K_PlantManTelefon />
+   <K_PlantManBuilding />
+   <K_YearOpHours>8000</K_YearOpHours>
+   <K_YearRepair>0</K_YearRepair>
+   <K_YearClean>0</K_YearClean>
+   <K_BWMainVersion>1</K_BWMainVersion>
+   <K_BWMainVersionDate />
+   <K_UEnforceMinLoad>no</K_UEnforceMinLoad>
+   <K_MinCapacity>0</K_MinCapacity>
+   <K_MaxCapacity>100</K_MaxCapacity>
+   <K_UnitTimeMinLoad>no</K_UnitTimeMinLoad>
+   <K_unitOpMode>
+    <K_name>30000000_0100</K_name>
+    <K_Description />
+    <K_OpModeType>Production</K_OpModeType>
+    <K_ValidFrom>01.01.2000</K_ValidFrom>
+    <K_ValidUntil>31.12.2099</K_ValidUntil>
+    <K_UMValidSMRelevant>yes</K_UMValidSMRelevant>
+    <K_UMYearCapacity>700000</K_UMYearCapacity>
+    <K_UMPriority>1</K_UMPriority>
+    <K_UMAutoSplit>0</K_UMAutoSplit>
+    <K_UMCalcProd>no</K_UMCalcProd>
+    <K_UMManualSplit>0</K_UMManualSplit>
+    <K_UMSplitType>remainder</K_UMSplitType>
+    <K_UMPriorityMainProduct>1</K_UMPriorityMainProduct>
+    <K_UMFromSAP>no</K_UMFromSAP>
+    <K_UMSplitPropReferenceUOM />
+    <K_UMSplitPropReferencePart>0</K_UMSplitPropReferencePart>
+    <K_UMSplitFixedCapacity>0.25</K_UMSplitFixedCapacity>
+    <K_IterType>M</K_IterType>
+    <K_BWMainVersion>1</K_BWMainVersion>
+    <K_BWMainVersionDate />
+    <K_recipe>
+     <K_id>1</K_id>
+     <K_name />
+     <K_RefLoad>100.0</K_RefLoad>
+     <K_secrecvalue>1.0</K_secrecvalue>
+     <K_component_proc>
+      <K_component>3</K_component>
+      <K_value>100.0</K_value>
+      <K_EndProduct>1</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>1</K_component>
+      <K_value>-110.0</K_value>
+      <K_EndProduct>2</K_EndProduct>
+                    </K_component_proc>
+                </K_recipe>
+            </K_unitOpMode>
+   <K_unitOpMode>
+    <K_name>40000000_0200</K_name>
+    <K_Description />
+    <K_OpModeType>Production</K_OpModeType>
+    <K_ValidFrom>01.01.2000</K_ValidFrom>
+    <K_ValidUntil>31.12.2099</K_ValidUntil>
+    <K_UMValidSMRelevant>yes</K_UMValidSMRelevant>
+    <K_UMYearCapacity>1000000</K_UMYearCapacity>
+    <K_UMPriority>2</K_UMPriority>
+    <K_UMAutoSplit>0</K_UMAutoSplit>
+    <K_UMCalcProd>no</K_UMCalcProd>
+    <K_UMManualSplit>1</K_UMManualSplit>
+    <K_UMSplitType>remainder</K_UMSplitType>
+    <K_UMPriorityMainProduct>1</K_UMPriorityMainProduct>
+    <K_UMFromSAP>no</K_UMFromSAP>
+    <K_UMSplitPropReferenceUOM />
+    <K_UMSplitPropReferencePart>0</K_UMSplitPropReferencePart>
+    <K_UMSplitFixedCapacity>1</K_UMSplitFixedCapacity>
+    <K_IterType>M</K_IterType>
+    <K_BWMainVersion>1</K_BWMainVersion>
+    <K_BWMainVersionDate />
+    <K_recipe>
+     <K_id>1</K_id>
+     <K_name />
+     <K_RefLoad>100.0</K_RefLoad>
+     <K_secrecvalue>1.0</K_secrecvalue>
+     <K_component_proc>
+      <K_component>4</K_component>
+      <K_value>100.0</K_value>
+      <K_EndProduct>1</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>1</K_component>
+      <K_value>-120.0</K_value>
+      <K_EndProduct>2</K_EndProduct>
+                    </K_component_proc>
+                </K_recipe>
+            </K_unitOpMode>
+   <K_pfolio>
+    <K_name>EM_001</K_name>
+    <K_ophours>8760.0</K_ophours>
+    <K_unitModeData>
+     <K_vum>30000000_0100</K_vum>
+     <K_percentage>6.523157208089</K_percentage>
+     <K_load>100.000000000000</K_load>
+     <K_CPFactor>0.0</K_CPFactor>
+     <K_LastTarget>5.707763</K_LastTarget>
+                </K_unitModeData>
+    <K_unitModeData>
+     <K_vum>40000000_0200</K_vum>
+     <K_percentage>84.801043705153</K_percentage>
+     <K_load>100.000000000000</K_load>
+     <K_CPFactor>0.0</K_CPFactor>
+     <K_LastTarget>597.226027</K_LastTarget>
+                </K_unitModeData>
+            </K_pfolio>
+        </K_unit>
+  <K_unit>
+   <K_id>T9876-1234</K_id>
+   <K_name>Transfer</K_name>
+   <K_Type>0</K_Type>
+   <K_CostCenter>T9876</K_CostCenter>
+   <K_considerbounds>0</K_considerbounds>
+   <K_ValidFrom>31.07.2011</K_ValidFrom>
+   <K_ValidUntil>31.07.2012</K_ValidUntil>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_PlantManName />
+   <K_PlantManTelefon />
+   <K_PlantManBuilding />
+   <K_YearOpHours>8760</K_YearOpHours>
+   <K_YearRepair>0</K_YearRepair>
+   <K_YearClean>0</K_YearClean>
+   <K_BWMainVersion>1</K_BWMainVersion>
+   <K_BWMainVersionDate />
+   <K_UEnforceMinLoad>no</K_UEnforceMinLoad>
+   <K_MinCapacity>0</K_MinCapacity>
+   <K_MaxCapacity>100</K_MaxCapacity>
+   <K_UnitTimeMinLoad>no</K_UnitTimeMinLoad>
+   <K_unitOpMode>
+    <K_name>T_K4</K_name>
+    <K_Description />
+    <K_OpModeType>Site transfer</K_OpModeType>
+    <K_ValidFrom>31.07.2011</K_ValidFrom>
+    <K_ValidUntil>31.07.2012</K_ValidUntil>
+    <K_UMValidSMRelevant>yes</K_UMValidSMRelevant>
+    <K_UMYearCapacity>0</K_UMYearCapacity>
+    <K_UMPriority>1</K_UMPriority>
+    <K_UMAutoSplit>0</K_UMAutoSplit>
+    <K_UMCalcProd>no</K_UMCalcProd>
+    <K_UMManualSplit>0</K_UMManualSplit>
+    <K_UMSplitType>remainder</K_UMSplitType>
+    <K_UMPriorityMainProduct>3</K_UMPriorityMainProduct>
+    <K_UMFromSAP>no</K_UMFromSAP>
+    <K_UMSplitPropReferenceUOM />
+    <K_UMSplitPropReferencePart>0</K_UMSplitPropReferencePart>
+    <K_UMSplitFixedCapacity>0</K_UMSplitFixedCapacity>
+    <K_IterType>M</K_IterType>
+    <K_BWMainVersion>1</K_BWMainVersion>
+    <K_BWMainVersionDate />
+    <K_recipe>
+     <K_id>1</K_id>
+     <K_name>T_K4</K_name>
+     <K_RefLoad>100.0</K_RefLoad>
+     <K_secrecvalue>0.</K_secrecvalue>
+     <K_component_proc>
+      <K_component>4</K_component>
+      <K_value>100.0</K_value>
+      <K_EndProduct>1</K_EndProduct>
+      <K_Site>1234</K_Site>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>4</K_component>
+      <K_value>-100.0</K_value>
+      <K_EndProduct>2</K_EndProduct>
+      <K_Site>9876</K_Site>
+                    </K_component_proc>
+                </K_recipe>
+            </K_unitOpMode>
+   <K_pfolio>
+    <K_name>EM_001</K_name>
+    <K_ophours>8760.0</K_ophours>
+    <K_unitModeData>
+     <K_vum>T_K4</K_vum>
+     <K_percentage>0.0</K_percentage>
+     <K_load>0.0</K_load>
+     <K_CPFactor>114.155251141553</K_CPFactor>
+     <K_LastTarget>114.155251</K_LastTarget>
+                </K_unitModeData>
+            </K_pfolio>
+        </K_unit>
+  <K_unit>
+   <K_id>A_1234</K_id>
+   <K_name>Plant A_1234</K_name>
+   <K_Type>0</K_Type>
+   <K_posX>1</K_posX>
+   <K_posY>1</K_posY>
+   <K_CostCenter>CC1</K_CostCenter>
+   <K_considerbounds>0</K_considerbounds>
+   <K_ValidFrom>01.01.2000</K_ValidFrom>
+   <K_ValidUntil>31.12.2099</K_ValidUntil>
+   <K_SiteCode>1234</K_SiteCode>
+   <K_PlantManName />
+   <K_PlantManTelefon />
+   <K_PlantManBuilding />
+   <K_YearOpHours>8000</K_YearOpHours>
+   <K_YearRepair>0</K_YearRepair>
+   <K_YearClean>0</K_YearClean>
+   <K_BWMainVersion>1</K_BWMainVersion>
+   <K_BWMainVersionDate />
+   <K_UEnforceMinLoad>no</K_UEnforceMinLoad>
+   <K_MinCapacity>0</K_MinCapacity>
+   <K_MaxCapacity>100</K_MaxCapacity>
+   <K_UnitTimeMinLoad>no</K_UnitTimeMinLoad>
+   <K_unitOpMode>
+    <K_name>30000000_0100</K_name>
+    <K_Description />
+    <K_OpModeType>Production</K_OpModeType>
+    <K_ValidFrom>01.01.2000</K_ValidFrom>
+    <K_ValidUntil>31.12.2099</K_ValidUntil>
+    <K_UMValidSMRelevant>yes</K_UMValidSMRelevant>
+    <K_UMYearCapacity>10000000</K_UMYearCapacity>
+    <K_UMPriority>1</K_UMPriority>
+    <K_UMAutoSplit>0</K_UMAutoSplit>
+    <K_UMCalcProd>no</K_UMCalcProd>
+    <K_UMManualSplit>0</K_UMManualSplit>
+    <K_UMSplitType>remainder</K_UMSplitType>
+    <K_UMPriorityMainProduct>2</K_UMPriorityMainProduct>
+    <K_UMFromSAP>no</K_UMFromSAP>
+    <K_UMSplitPropReferenceUOM />
+    <K_UMSplitPropReferencePart>0</K_UMSplitPropReferencePart>
+    <K_UMSplitFixedCapacity>0.25</K_UMSplitFixedCapacity>
+    <K_IterType>M</K_IterType>
+    <K_BWMainVersion>1</K_BWMainVersion>
+    <K_BWMainVersionDate />
+    <K_recipe>
+     <K_id>1</K_id>
+     <K_name />
+     <K_RefLoad>100.0</K_RefLoad>
+     <K_secrecvalue>1.0</K_secrecvalue>
+     <K_component_proc>
+      <K_component>3</K_component>
+      <K_value>100.0</K_value>
+      <K_EndProduct>1</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>4</K_component>
+      <K_value>-100.0</K_value>
+      <K_EndProduct>2</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>1</K_component>
+      <K_value>-10.0</K_value>
+      <K_EndProduct>2</K_EndProduct>
+                    </K_component_proc>
+                </K_recipe>
+            </K_unitOpMode>
+   <K_pfolio>
+    <K_name>EM_001</K_name>
+    <K_ophours>8760.0</K_ophours>
+    <K_unitModeData>
+     <K_vum>30000000_0100</K_vum>
+     <K_percentage>91.324200913242</K_percentage>
+     <K_load>10.000000000000</K_load>
+     <K_CPFactor>0.0</K_CPFactor>
+     <K_LastTarget>114.155251</K_LastTarget>
+                </K_unitModeData>
+            </K_pfolio>
+        </K_unit>
+  <K_unit>
+   <K_id>F</K_id>
+   <K_name>Plant F</K_name>
+   <K_Type>0</K_Type>
+   <K_posX>1</K_posX>
+   <K_posY>1</K_posY>
+   <K_CostCenter>500000</K_CostCenter>
+   <K_considerbounds>0</K_considerbounds>
+   <K_ValidFrom>01.01.2000</K_ValidFrom>
+   <K_ValidUntil>31.12.2099</K_ValidUntil>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_PlantManName />
+   <K_PlantManTelefon />
+   <K_PlantManBuilding />
+   <K_YearOpHours>8000</K_YearOpHours>
+   <K_YearRepair>0</K_YearRepair>
+   <K_YearClean>0</K_YearClean>
+   <K_BWMainVersion>1</K_BWMainVersion>
+   <K_BWMainVersionDate />
+   <K_UEnforceMinLoad>no</K_UEnforceMinLoad>
+   <K_MinCapacity>0</K_MinCapacity>
+   <K_MaxCapacity>100</K_MaxCapacity>
+   <K_UnitTimeMinLoad>no</K_UnitTimeMinLoad>
+   <K_unitOpMode>
+    <K_name>90000000_0100</K_name>
+    <K_Description />
+    <K_OpModeType>Production</K_OpModeType>
+    <K_ValidFrom>01.01.2000</K_ValidFrom>
+    <K_ValidUntil>31.12.2099</K_ValidUntil>
+    <K_UMValidSMRelevant>yes</K_UMValidSMRelevant>
+    <K_UMYearCapacity>2000000</K_UMYearCapacity>
+    <K_UMPriority>1</K_UMPriority>
+    <K_UMAutoSplit>0</K_UMAutoSplit>
+    <K_UMCalcProd>no</K_UMCalcProd>
+    <K_UMManualSplit>0</K_UMManualSplit>
+    <K_UMSplitType>remainder</K_UMSplitType>
+    <K_UMPriorityMainProduct>1</K_UMPriorityMainProduct>
+    <K_UMFromSAP>no</K_UMFromSAP>
+    <K_UMSplitPropReferenceUOM />
+    <K_UMSplitPropReferencePart>0</K_UMSplitPropReferencePart>
+    <K_UMSplitFixedCapacity>1</K_UMSplitFixedCapacity>
+    <K_IterType>M</K_IterType>
+    <K_BWMainVersion>1</K_BWMainVersion>
+    <K_BWMainVersionDate />
+    <K_recipe>
+     <K_id>1</K_id>
+     <K_name />
+     <K_RefLoad>100.0</K_RefLoad>
+     <K_secrecvalue>1.0</K_secrecvalue>
+     <K_component_proc>
+      <K_component>9</K_component>
+      <K_value>100.0</K_value>
+      <K_EndProduct>1</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>5</K_component>
+      <K_value>-125.0</K_value>
+      <K_EndProduct>2</K_EndProduct>
+                    </K_component_proc>
+                </K_recipe>
+            </K_unitOpMode>
+   <K_pfolio>
+    <K_name>EM_001</K_name>
+    <K_ophours>8760.0</K_ophours>
+    <K_unitModeData>
+     <K_vum>90000000_0100</K_vum>
+     <K_percentage>91.324200913242</K_percentage>
+     <K_load>20.518750000000</K_load>
+     <K_CPFactor>0.0</K_CPFactor>
+     <K_LastTarget>46.846461</K_LastTarget>
+                </K_unitModeData>
+            </K_pfolio>
+        </K_unit>
+  <K_unit>
+   <K_id>G</K_id>
+   <K_name>Plant G</K_name>
+   <K_Type>0</K_Type>
+   <K_posX>1</K_posX>
+   <K_posY>1</K_posY>
+   <K_CostCenter>500000</K_CostCenter>
+   <K_considerbounds>0</K_considerbounds>
+   <K_ValidFrom>01.01.2000</K_ValidFrom>
+   <K_ValidUntil>31.12.2099</K_ValidUntil>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_PlantManName />
+   <K_PlantManTelefon />
+   <K_PlantManBuilding />
+   <K_YearOpHours>8000</K_YearOpHours>
+   <K_YearRepair>0</K_YearRepair>
+   <K_YearClean>0</K_YearClean>
+   <K_BWMainVersion>1</K_BWMainVersion>
+   <K_BWMainVersionDate />
+   <K_UEnforceMinLoad>no</K_UEnforceMinLoad>
+   <K_MinCapacity>0</K_MinCapacity>
+   <K_MaxCapacity>100</K_MaxCapacity>
+   <K_UnitTimeMinLoad>no</K_UnitTimeMinLoad>
+   <K_unitOpMode>
+    <K_name>100000000_0100</K_name>
+    <K_Description />
+    <K_OpModeType>Production</K_OpModeType>
+    <K_ValidFrom>01.01.2000</K_ValidFrom>
+    <K_ValidUntil>31.12.2099</K_ValidUntil>
+    <K_UMValidSMRelevant>yes</K_UMValidSMRelevant>
+    <K_UMYearCapacity>10000000</K_UMYearCapacity>
+    <K_UMPriority>1</K_UMPriority>
+    <K_UMAutoSplit>0</K_UMAutoSplit>
+    <K_UMCalcProd>no</K_UMCalcProd>
+    <K_UMManualSplit>0</K_UMManualSplit>
+    <K_UMSplitType>remainder</K_UMSplitType>
+    <K_UMPriorityMainProduct>1</K_UMPriorityMainProduct>
+    <K_UMFromSAP>no</K_UMFromSAP>
+    <K_UMSplitPropReferenceUOM />
+    <K_UMSplitPropReferencePart>0</K_UMSplitPropReferencePart>
+    <K_UMSplitFixedCapacity>1</K_UMSplitFixedCapacity>
+    <K_IterType>M</K_IterType>
+    <K_BWMainVersion>1</K_BWMainVersion>
+    <K_BWMainVersionDate />
+    <K_recipe>
+     <K_id>1</K_id>
+     <K_name />
+     <K_RefLoad>100.0</K_RefLoad>
+     <K_secrecvalue>1.0</K_secrecvalue>
+     <K_component_proc>
+      <K_component>10</K_component>
+      <K_value>100.0</K_value>
+      <K_EndProduct>1</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>7</K_component>
+      <K_value>-85.0</K_value>
+      <K_EndProduct>2</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>9</K_component>
+      <K_value>-15.0</K_value>
+      <K_EndProduct>2</K_EndProduct>
+                    </K_component_proc>
+                </K_recipe>
+            </K_unitOpMode>
+   <K_pfolio>
+    <K_name>EM_001</K_name>
+    <K_ophours>8760.0</K_ophours>
+    <K_unitModeData>
+     <K_vum>100000000_0100</K_vum>
+     <K_percentage>91.324200913242</K_percentage>
+     <K_load>10.025000000000</K_load>
+     <K_CPFactor>0.0</K_CPFactor>
+     <K_LastTarget>114.440639</K_LastTarget>
+                </K_unitModeData>
+            </K_pfolio>
+        </K_unit>
+  <K_unit>
+   <K_id>H</K_id>
+   <K_name>Plant H</K_name>
+   <K_Type>0</K_Type>
+   <K_posX>1</K_posX>
+   <K_posY>1</K_posY>
+   <K_CostCenter>500000</K_CostCenter>
+   <K_considerbounds>1</K_considerbounds>
+   <K_ValidFrom>01.01.2000</K_ValidFrom>
+   <K_ValidUntil>31.12.2099</K_ValidUntil>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_PlantManName />
+   <K_PlantManTelefon />
+   <K_PlantManBuilding />
+   <K_YearOpHours>8000</K_YearOpHours>
+   <K_YearRepair>0</K_YearRepair>
+   <K_YearClean>0</K_YearClean>
+   <K_BWMainVersion>1</K_BWMainVersion>
+   <K_BWMainVersionDate />
+   <K_UEnforceMinLoad>no</K_UEnforceMinLoad>
+   <K_MinCapacity>0</K_MinCapacity>
+   <K_MaxCapacity>100</K_MaxCapacity>
+   <K_UnitTimeMinLoad>no</K_UnitTimeMinLoad>
+   <K_unitOpMode>
+    <K_name>110000000_0100</K_name>
+    <K_Description />
+    <K_OpModeType>Production</K_OpModeType>
+    <K_ValidFrom>01.01.2000</K_ValidFrom>
+    <K_ValidUntil>31.12.2099</K_ValidUntil>
+    <K_UMValidSMRelevant>yes</K_UMValidSMRelevant>
+    <K_UMYearCapacity>10000000</K_UMYearCapacity>
+    <K_UMPriority>1</K_UMPriority>
+    <K_UMAutoSplit>0</K_UMAutoSplit>
+    <K_UMCalcProd>no</K_UMCalcProd>
+    <K_UMManualSplit>0</K_UMManualSplit>
+    <K_UMSplitType>remainder</K_UMSplitType>
+    <K_UMPriorityMainProduct>1</K_UMPriorityMainProduct>
+    <K_UMFromSAP>no</K_UMFromSAP>
+    <K_UMSplitPropReferenceUOM />
+    <K_UMSplitPropReferencePart>0</K_UMSplitPropReferencePart>
+    <K_UMSplitFixedCapacity>1</K_UMSplitFixedCapacity>
+    <K_IterType>M</K_IterType>
+    <K_BWMainVersion>1</K_BWMainVersion>
+    <K_BWMainVersionDate />
+    <K_recipe>
+     <K_id>1</K_id>
+     <K_name />
+     <K_RefLoad>100.0</K_RefLoad>
+     <K_secrecvalue>1.0</K_secrecvalue>
+     <K_component_proc>
+      <K_component>11</K_component>
+      <K_value>100.0</K_value>
+      <K_EndProduct>1</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>5</K_component>
+      <K_value>-100.0</K_value>
+      <K_EndProduct>2</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>13</K_component>
+      <K_value>-0.500000</K_value>
+      <K_EndProduct>2</K_EndProduct>
+                    </K_component_proc>
+                </K_recipe>
+            </K_unitOpMode>
+   <K_pfolio>
+    <K_name>EM_001</K_name>
+    <K_ophours>8760.0</K_ophours>
+    <K_unitModeData>
+     <K_vum>110000000_0100</K_vum>
+     <K_percentage>91.324200913242</K_percentage>
+     <K_load>100.000000000000</K_load>
+     <K_CPFactor>0.0</K_CPFactor>
+     <K_LastTarget>1386.986301</K_LastTarget>
+                </K_unitModeData>
+            </K_pfolio>
+        </K_unit>
+  <K_unit>
+   <K_id>I</K_id>
+   <K_name>Plant I</K_name>
+   <K_Type>0</K_Type>
+   <K_posX>1</K_posX>
+   <K_posY>1</K_posY>
+   <K_CostCenter>500000</K_CostCenter>
+   <K_considerbounds>0</K_considerbounds>
+   <K_ValidFrom>01.01.2000</K_ValidFrom>
+   <K_ValidUntil>31.12.2099</K_ValidUntil>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_PlantManName />
+   <K_PlantManTelefon />
+   <K_PlantManBuilding />
+   <K_YearOpHours>4500</K_YearOpHours>
+   <K_YearRepair>0</K_YearRepair>
+   <K_YearClean>0</K_YearClean>
+   <K_BWMainVersion>1</K_BWMainVersion>
+   <K_BWMainVersionDate />
+   <K_UEnforceMinLoad>no</K_UEnforceMinLoad>
+   <K_MinCapacity>0</K_MinCapacity>
+   <K_MaxCapacity>100</K_MaxCapacity>
+   <K_UnitTimeMinLoad>no</K_UnitTimeMinLoad>
+   <K_unitOpMode>
+    <K_name>120000000_0100</K_name>
+    <K_Description />
+    <K_OpModeType>Production</K_OpModeType>
+    <K_ValidFrom>01.01.2000</K_ValidFrom>
+    <K_ValidUntil>31.12.2099</K_ValidUntil>
+    <K_UMValidSMRelevant>yes</K_UMValidSMRelevant>
+    <K_UMYearCapacity>10000000</K_UMYearCapacity>
+    <K_UMPriority>1</K_UMPriority>
+    <K_UMAutoSplit>0</K_UMAutoSplit>
+    <K_UMCalcProd>no</K_UMCalcProd>
+    <K_UMManualSplit>0</K_UMManualSplit>
+    <K_UMSplitType>remainder</K_UMSplitType>
+    <K_UMPriorityMainProduct>1</K_UMPriorityMainProduct>
+    <K_UMFromSAP>no</K_UMFromSAP>
+    <K_UMSplitPropReferenceUOM />
+    <K_UMSplitPropReferencePart>0</K_UMSplitPropReferencePart>
+    <K_UMSplitFixedCapacity>1</K_UMSplitFixedCapacity>
+    <K_IterType>M</K_IterType>
+    <K_BWMainVersion>1</K_BWMainVersion>
+    <K_BWMainVersionDate />
+    <K_recipe>
+     <K_id>1</K_id>
+     <K_name />
+     <K_RefLoad>100.0</K_RefLoad>
+     <K_secrecvalue>1.0</K_secrecvalue>
+     <K_component_proc>
+      <K_component>12</K_component>
+      <K_value>100.0</K_value>
+      <K_EndProduct>1</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>11</K_component>
+      <K_value>-100.0</K_value>
+      <K_EndProduct>2</K_EndProduct>
+                    </K_component_proc>
+                </K_recipe>
+            </K_unitOpMode>
+   <K_pfolio>
+    <K_name>EM_001</K_name>
+    <K_ophours>8760.0</K_ophours>
+    <K_unitModeData>
+     <K_vum>120000000_0100</K_vum>
+     <K_percentage>51.369863013699</K_percentage>
+     <K_load>1.000000000000e+00</K_load>
+     <K_CPFactor>0.0</K_CPFactor>
+     <K_LastTarget>11.415525</K_LastTarget>
+                </K_unitModeData>
+            </K_pfolio>
+        </K_unit>
+  <K_unit>
+   <K_id>J</K_id>
+   <K_name>Plant J</K_name>
+   <K_Type>0</K_Type>
+   <K_posX>1</K_posX>
+   <K_posY>1</K_posY>
+   <K_CostCenter>500000</K_CostCenter>
+   <K_considerbounds>0</K_considerbounds>
+   <K_ValidFrom>01.01.2000</K_ValidFrom>
+   <K_ValidUntil>31.12.2099</K_ValidUntil>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_PlantManName />
+   <K_PlantManTelefon />
+   <K_PlantManBuilding />
+   <K_YearOpHours>4500</K_YearOpHours>
+   <K_YearRepair>0</K_YearRepair>
+   <K_YearClean>0</K_YearClean>
+   <K_BWMainVersion>1</K_BWMainVersion>
+   <K_BWMainVersionDate />
+   <K_UEnforceMinLoad>no</K_UEnforceMinLoad>
+   <K_MinCapacity>0</K_MinCapacity>
+   <K_MaxCapacity>100</K_MaxCapacity>
+   <K_UnitTimeMinLoad>no</K_UnitTimeMinLoad>
+   <K_unitOpMode>
+    <K_name>130000000_0100</K_name>
+    <K_Description />
+    <K_OpModeType>Production</K_OpModeType>
+    <K_ValidFrom>01.01.2000</K_ValidFrom>
+    <K_ValidUntil>31.12.2099</K_ValidUntil>
+    <K_UMValidSMRelevant>yes</K_UMValidSMRelevant>
+    <K_UMYearCapacity>15000000</K_UMYearCapacity>
+    <K_UMPriority>1</K_UMPriority>
+    <K_UMAutoSplit>0</K_UMAutoSplit>
+    <K_UMCalcProd>no</K_UMCalcProd>
+    <K_UMManualSplit>0</K_UMManualSplit>
+    <K_UMSplitType>remainder</K_UMSplitType>
+    <K_UMPriorityMainProduct>1</K_UMPriorityMainProduct>
+    <K_UMFromSAP>no</K_UMFromSAP>
+    <K_UMSplitPropReferenceUOM />
+    <K_UMSplitPropReferencePart>0</K_UMSplitPropReferencePart>
+    <K_UMSplitFixedCapacity>1</K_UMSplitFixedCapacity>
+    <K_IterType>M</K_IterType>
+    <K_BWMainVersion>1</K_BWMainVersion>
+    <K_BWMainVersionDate />
+    <K_recipe>
+     <K_id>1</K_id>
+     <K_name />
+     <K_RefLoad>100.0</K_RefLoad>
+     <K_secrecvalue>1.0</K_secrecvalue>
+     <K_component_proc>
+      <K_component>13</K_component>
+      <K_value>100.0</K_value>
+      <K_EndProduct>1</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>11</K_component>
+      <K_value>-100.0</K_value>
+      <K_EndProduct>2</K_EndProduct>
+                    </K_component_proc>
+                </K_recipe>
+            </K_unitOpMode>
+   <K_pfolio>
+    <K_name>EM_001</K_name>
+    <K_ophours>8760.0</K_ophours>
+    <K_unitModeData>
+     <K_vum>130000000_0100</K_vum>
+     <K_percentage>51.369863013699</K_percentage>
+     <K_load>80.333333333333</K_load>
+     <K_CPFactor>0.0</K_CPFactor>
+     <K_LastTarget>1375.570776</K_LastTarget>
+                </K_unitModeData>
+            </K_pfolio>
+        </K_unit>
+  <K_unit>
+   <K_id>L</K_id>
+   <K_name>Plant L</K_name>
+   <K_Type>0</K_Type>
+   <K_posX>1</K_posX>
+   <K_posY>1</K_posY>
+   <K_CostCenter>500000</K_CostCenter>
+   <K_considerbounds>1</K_considerbounds>
+   <K_ValidFrom>01.01.2000</K_ValidFrom>
+   <K_ValidUntil>31.12.2099</K_ValidUntil>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_PlantManName />
+   <K_PlantManTelefon />
+   <K_PlantManBuilding />
+   <K_YearOpHours>4500</K_YearOpHours>
+   <K_YearRepair>0</K_YearRepair>
+   <K_YearClean>0</K_YearClean>
+   <K_BWMainVersion>1</K_BWMainVersion>
+   <K_BWMainVersionDate />
+   <K_UEnforceMinLoad>no</K_UEnforceMinLoad>
+   <K_MinCapacity>0</K_MinCapacity>
+   <K_MaxCapacity>100</K_MaxCapacity>
+   <K_UnitTimeMinLoad>no</K_UnitTimeMinLoad>
+   <K_unitOpMode>
+    <K_name>150000000_0100</K_name>
+    <K_Description />
+    <K_OpModeType>Production</K_OpModeType>
+    <K_ValidFrom>01.01.2000</K_ValidFrom>
+    <K_ValidUntil>31.12.2099</K_ValidUntil>
+    <K_UMValidSMRelevant>yes</K_UMValidSMRelevant>
+    <K_UMYearCapacity>1000000</K_UMYearCapacity>
+    <K_UMPriority>1</K_UMPriority>
+    <K_UMAutoSplit>0</K_UMAutoSplit>
+    <K_UMCalcProd>no</K_UMCalcProd>
+    <K_UMManualSplit>0</K_UMManualSplit>
+    <K_UMSplitType>remainder</K_UMSplitType>
+    <K_UMPriorityMainProduct>1</K_UMPriorityMainProduct>
+    <K_UMFromSAP>no</K_UMFromSAP>
+    <K_UMSplitPropReferenceUOM />
+    <K_UMSplitPropReferencePart>0</K_UMSplitPropReferencePart>
+    <K_UMSplitFixedCapacity>1</K_UMSplitFixedCapacity>
+    <K_IterType>X</K_IterType>
+    <K_BWMainVersion>1</K_BWMainVersion>
+    <K_BWMainVersionDate />
+    <K_IterComp>14</K_IterComp>
+    <K_IterType>X</K_IterType>
+    <K_recipe>
+     <K_id>1</K_id>
+     <K_name />
+     <K_RefLoad>100.0</K_RefLoad>
+     <K_secrecvalue>1.0</K_secrecvalue>
+     <K_component_proc>
+      <K_component>15</K_component>
+      <K_value>100.0</K_value>
+      <K_EndProduct>1</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>14</K_component>
+      <K_value>-100.0</K_value>
+      <K_EndProduct>2</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>17</K_component>
+      <K_value>20.0</K_value>
+      <K_EndProduct>3</K_EndProduct>
+                    </K_component_proc>
+                </K_recipe>
+            </K_unitOpMode>
+   <K_pfolio>
+    <K_name>EM_001</K_name>
+    <K_ophours>8760.0</K_ophours>
+    <K_unitModeData>
+     <K_vum>150000000_0100</K_vum>
+     <K_percentage>51.369863013699</K_percentage>
+     <K_load>100.000000000000</K_load>
+     <K_CPFactor>0.0</K_CPFactor>
+     <K_LastTarget>-124.862657</K_LastTarget>
+                </K_unitModeData>
+            </K_pfolio>
+        </K_unit>
+  <K_unit>
+   <K_id>M</K_id>
+   <K_name>Plant M</K_name>
+   <K_Type>0</K_Type>
+   <K_posX>1</K_posX>
+   <K_posY>1</K_posY>
+   <K_CostCenter>500000</K_CostCenter>
+   <K_considerbounds>0</K_considerbounds>
+   <K_ValidFrom>01.01.2000</K_ValidFrom>
+   <K_ValidUntil>31.12.2099</K_ValidUntil>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_PlantManName />
+   <K_PlantManTelefon />
+   <K_PlantManBuilding />
+   <K_YearOpHours>4500</K_YearOpHours>
+   <K_YearRepair>0</K_YearRepair>
+   <K_YearClean>0</K_YearClean>
+   <K_BWMainVersion>1</K_BWMainVersion>
+   <K_BWMainVersionDate />
+   <K_UEnforceMinLoad>no</K_UEnforceMinLoad>
+   <K_MinCapacity>0</K_MinCapacity>
+   <K_MaxCapacity>100</K_MaxCapacity>
+   <K_UnitTimeMinLoad>no</K_UnitTimeMinLoad>
+   <K_unitOpMode>
+    <K_name>160000000_0100</K_name>
+    <K_Description />
+    <K_OpModeType>Production</K_OpModeType>
+    <K_ValidFrom>01.01.2000</K_ValidFrom>
+    <K_ValidUntil>31.12.2099</K_ValidUntil>
+    <K_UMValidSMRelevant>yes</K_UMValidSMRelevant>
+    <K_UMYearCapacity>10000000</K_UMYearCapacity>
+    <K_UMPriority>1</K_UMPriority>
+    <K_UMAutoSplit>0</K_UMAutoSplit>
+    <K_UMCalcProd>no</K_UMCalcProd>
+    <K_UMManualSplit>0</K_UMManualSplit>
+    <K_UMSplitType>remainder</K_UMSplitType>
+    <K_UMPriorityMainProduct>2</K_UMPriorityMainProduct>
+    <K_UMFromSAP>no</K_UMFromSAP>
+    <K_UMSplitPropReferenceUOM />
+    <K_UMSplitPropReferencePart>0</K_UMSplitPropReferencePart>
+    <K_UMSplitFixedCapacity>1</K_UMSplitFixedCapacity>
+    <K_IterType>X</K_IterType>
+    <K_BWMainVersion>1</K_BWMainVersion>
+    <K_BWMainVersionDate />
+    <K_IterComp>14</K_IterComp>
+    <K_IterType>X</K_IterType>
+    <K_recipe>
+     <K_id>1</K_id>
+     <K_name />
+     <K_RefLoad>100.0</K_RefLoad>
+     <K_secrecvalue>1.0</K_secrecvalue>
+     <K_component_proc>
+      <K_component>16</K_component>
+      <K_value>100.0</K_value>
+      <K_EndProduct>1</K_EndProduct>
+                    </K_component_proc>
+     <K_component_proc>
+      <K_component>14</K_component>
+      <K_value>-100.0</K_value>
+      <K_EndProduct>2</K_EndProduct>
+                    </K_component_proc>
+                </K_recipe>
+            </K_unitOpMode>
+   <K_pfolio>
+    <K_name>EM_001</K_name>
+    <K_ophours>8760.0</K_ophours>
+    <K_unitModeData>
+     <K_vum>160000000_0100</K_vum>
+     <K_percentage>51.369863013699</K_percentage>
+     <K_load>9.379687500000e-01</K_load>
+     <K_CPFactor>0.0</K_CPFactor>
+     <K_LastTarget>-10.707406</K_LastTarget>
+                </K_unitModeData>
+            </K_pfolio>
+        </K_unit>
+
+  <K_group>
+   <K_name>steam</K_name>
+   <K_nickname>steam</K_nickname>
+   <K_id>0</K_id>
+   <K_Colour>2</K_Colour>
+   <K_index>-1</K_index>
+        </K_group>
+  <K_group>
+   <K_name>utility</K_name>
+   <K_nickname>utility</K_nickname>
+   <K_id>0</K_id>
+   <K_Colour>2</K_Colour>
+   <K_index>-1</K_index>
+        </K_group>
+  <K_group>
+   <K_name>raw material</K_name>
+   <K_nickname>raw material</K_nickname>
+   <K_id>0</K_id>
+   <K_Colour>2</K_Colour>
+   <K_index>-1</K_index>
+        </K_group>
+  <K_group>
+   <K_name>intermediate</K_name>
+   <K_nickname>intermediate</K_nickname>
+   <K_id>0</K_id>
+   <K_Colour>2</K_Colour>
+   <K_index>-1</K_index>
+        </K_group>
+  <K_group>
+   <K_name>product</K_name>
+   <K_nickname>product</K_nickname>
+   <K_id>0</K_id>
+   <K_Colour>2</K_Colour>
+   <K_index>-1</K_index>
+        </K_group>
+  <K_group>
+   <K_name>base chemical</K_name>
+   <K_nickname>base chemical</K_nickname>
+   <K_id>0</K_id>
+   <K_Colour>2</K_Colour>
+   <K_index>-1</K_index>
+        </K_group>
+  <K_group>
+   <K_name>by-product</K_name>
+   <K_nickname>by-product</K_nickname>
+   <K_id>0</K_id>
+   <K_Colour>2</K_Colour>
+   <K_index>-1</K_index>
+        </K_group>
+  <K_group>
+   <K_name>gas</K_name>
+   <K_nickname>gas</K_nickname>
+   <K_id>0</K_id>
+   <K_Colour>2</K_Colour>
+   <K_index>-1</K_index>
+        </K_group>
+  <K_group>
+   <K_name>waste</K_name>
+   <K_nickname>waste</K_nickname>
+   <K_id>0</K_id>
+   <K_Colour>2</K_Colour>
+   <K_index>-1</K_index>
+        </K_group>
+  <K_group>
+   <K_name>auxiliary</K_name>
+   <K_nickname>auxiliary</K_nickname>
+   <K_id>0</K_id>
+   <K_Colour>2</K_Colour>
+   <K_index>-1</K_index>
+        </K_group>
+  <K_group>
+   <K_name>Feedstock from 3rd Party</K_name>
+   <K_nickname>Feedstock from 3rd Party</K_nickname>
+   <K_id>0</K_id>
+   <K_Colour>2</K_Colour>
+   <K_index>1</K_index>
+        </K_group>
+  <K_group>
+   <K_name>Product / By-Product to 3rd Party</K_name>
+   <K_nickname>Product / By-Product to 3rd Party</K_nickname>
+   <K_id>0</K_id>
+   <K_Colour>2</K_Colour>
+   <K_index>1</K_index>
+        </K_group>
+  <K_group>
+   <K_name>Feedstock</K_name>
+   <K_nickname>Feedstock</K_nickname>
+   <K_id>0</K_id>
+   <K_Colour>2</K_Colour>
+   <K_index>1</K_index>
+        </K_group>
+  <K_group>
+   <K_name>Intermediate</K_name>
+   <K_nickname>Intermediate</K_nickname>
+   <K_id>0</K_id>
+   <K_Colour>2</K_Colour>
+   <K_index>-1</K_index>
+        </K_group>
+  <K_group>
+   <K_name>Utility</K_name>
+   <K_nickname>Utility</K_nickname>
+   <K_id>0</K_id>
+   <K_Colour>2</K_Colour>
+   <K_index>-1</K_index>
+        </K_group>
+  <K_group>
+   <K_name>By-Product</K_name>
+   <K_nickname>By-Product</K_nickname>
+   <K_id>0</K_id>
+   <K_Colour>2</K_Colour>
+   <K_index>-1</K_index>
+        </K_group>
+  <K_group>
+   <K_name>Auxiliary</K_name>
+   <K_nickname>Auxiliary</K_nickname>
+   <K_id>0</K_id>
+   <K_Colour>2</K_Colour>
+   <K_index>-1</K_index>
+        </K_group>
+  <K_DynamicData>
+   <K_SaveDDInProject>1</K_SaveDDInProject>
+   <K_DDMarketing>
+    <K_Line>K_Version;3</K_Line>
+    <K_Line>K_Year;2010;2011;2012;</K_Line>
+    <K_Line>K_Month;0;0;0;</K_Line>
+    <K_Line>K_NoMonths;0;0;0;</K_Line>
+    <K_Line>K_YearName;2010;2011;2012;</K_Line>
+    <K_Line>K_Type;MA</K_Line>
+    <K_Line>K_GEBA;1</K_Line>
+    <K_Line>K_StartData</K_Line>
+    <K_Line>Sales product;Description;Alpha code;Component;Description;PP-OrgCode;Type;Recipient/Cost center;Site;2010;2011;2012;;;;;;</K_Line>
+    <K_Line>33330;K3_SP;X;3;K3;NN;10;;9876;50000;50000;50000;kg;</K_Line>
+    <K_Line>33330;K3_SP;X;3;K3;NN;10;;1234;1000000;1000000;1000000;kg;</K_Line>
+    <K_Line>44440;K4_SP;X;4;K4;NN;10;;9876;75000;75000;75000;kg;</K_Line>
+    <K_Line>44441;K4_SP;X;4;K4;NN;10;1234;9876;1000000;1000000;1000000;kg;</K_Line>
+    <K_Line>55550;K5_SP;X;5;K5;NN;10;;9876;100000;100000;100000;kg;</K_Line>
+    <K_Line>66660;K6_SP;X;6;K6;NN;10;;9876;1250000;1250000;1250000;kg;</K_Line>
+    <K_Line>77770;K7_SP;X;7;K7;NN;10;;9876;2000000;2000000;2000000;kg;</K_Line>
+    <K_Line>88880;K8_SP;X;8;K8;NN;10;;9876;250000;250000;250000;kg;</K_Line>
+    <K_Line>;;;9;K9;NN;15;;9876;10000;10000;10000;kg;</K_Line>
+    <K_Line>99990;K9_SP;X;9;K9;NN;10;;9876;250000;250000;250000;kg;</K_Line>
+    <K_Line>100000;K10_SP;X;10;K10;NN;10;;9876;1000000;1000000;1000000;kg;</K_Line>
+    <K_Line>120000;K12_SP;X;12;K12;NN;10;;9876;100000;100000;100000;kg;</K_Line>
+    <K_Line>130000;K13_SP;X;13;K13;NN;10;;9876;12000000;12000000;12000000;kg;</K_Line>
+    <K_Line>150000;K15_SP;X;15;K15;NN;10;;9876;2000000;2000000;2000000;kg;</K_Line>
+    <K_Line>160000;K16_SP;X;16;K16;NN;10;;9876;10000;10000;10000;kg;</K_Line>
+    <K_DDYear>2012</K_DDYear>
+    <K_DDYearNo>2012</K_DDYearNo>
+    <K_DDFileName>Marketingdaten - neu.csv</K_DDFileName>
+    <K_EPA>
+     <K_EPAType>0</K_EPAType>
+     <K_EPAYearNo>2012</K_EPAYearNo>
+     <K_EPAIndex>3</K_EPAIndex>
+     <K_EPAIndexMonth>0</K_EPAIndexMonth>
+     <K_EPAYear>2012</K_EPAYear>
+     <K_EPAMonth>total (2 months)</K_EPAMonth>
+                </K_EPA>
+            </K_DDMarketing>
+   <K_DDEcoData>
+    <K_Line>K_Version;3</K_Line>
+    <K_Line>K_Year;2010;2011;2012;</K_Line>
+    <K_Line>K_Month;0;0;0;</K_Line>
+    <K_Line>K_NoMonths;0;0;0;</K_Line>
+    <K_Line>K_YearName;2010;2011;2012;</K_Line>
+    <K_Line>K_Type;EC</K_Line>
+    <K_Line>K_StartData</K_Line>
+    <K_Line>Sales Product;Description;Component;Description;Site Code;Parameter;2010;2011;2012;Unit;;;;;;;;;;;;;;;</K_Line>
+    <K_Line>33330;K3_SP;3;K3;9876;Amount;50000;50000;50000;kg;</K_Line>
+    <K_Line>33330;K3_SP;3;K3;1234;Amount;1000000;1000000;1000000;kg;</K_Line>
+    <K_Line>33330;K3_SP;3;K3;9876;CM1;250000;250000;250000;EUR;</K_Line>
+    <K_Line>33330;K3_SP;3;K3;1234;CM1;1000000;1000000;1000000;EUR;</K_Line>
+    <K_Line>33330;K3_SP;3;K3;9876;CM2;250000;250000;250000;EUR;</K_Line>
+    <K_Line>33330;K3_SP;3;K3;1234;CM2;1000000;1000000;1000000;EUR;</K_Line>
+    <K_Line>33330;K3_SP;3;K3;9876;Net sales;250000;250000;250000;EUR;</K_Line>
+    <K_Line>33330;K3_SP;3;K3;1234;Net sales;1000000;1000000;1000000;EUR;</K_Line>
+    <K_Line>33330;K3_SP;3;K3;9876;Cost of material;250000;250000;250000;EUR;</K_Line>
+    <K_Line>33330;K3_SP;3;K3;1234;Cost of material;1000000;1000000;1000000;EUR;</K_Line>
+    <K_Line>33330;K3_SP;3;K3;9876;Manufacturing Cost;250000;250000;250000;EUR;</K_Line>
+    <K_Line>33330;K3_SP;3;K3;1234;Manufacturing Cost;1000000;1000000;1000000;EUR;</K_Line>
+    <K_Line>33330;K3_SP;3;K3;9876;Production Cost;250000;250000;250000;EUR;</K_Line>
+    <K_Line>33330;K3_SP;3;K3;1234;Production Cost;1000000;1000000;1000000;EUR;</K_Line>
+    <K_Line>44440;K4_SP;4;K4;9876;Amount;75000;75000;75000;kg;</K_Line>
+    <K_Line>44440;K4_SP;4;K4;9876;CM1;750000;750000;750000;EUR;</K_Line>
+    <K_Line>44440;K4_SP;4;K4;9876;CM2;750000;750000;750000;EUR;</K_Line>
+    <K_Line>44440;K4_SP;4;K4;9876;Net sales;750000;750000;750000;EUR;</K_Line>
+    <K_Line>44440;K4_SP;4;K4;9876;Cost of material;750000;750000;750000;EUR;</K_Line>
+    <K_Line>44440;K4_SP;4;K4;9876;Manufacturing Cost;750000;750000;750000;EUR;</K_Line>
+    <K_Line>44440;K4_SP;4;K4;9876;Production Cost;750000;750000;750000;EUR;</K_Line>
+    <K_Line>44441;K4_SP;4;K4;9876;Amount;1000000;1000000;1000000;kg;</K_Line>
+    <K_Line>44441;K4_SP;4;K4;9876;CM1;1000000;1000000;1000000;EUR;</K_Line>
+    <K_Line>44441;K4_SP;4;K4;9876;CM2;500000;500000;500000;EUR;</K_Line>
+    <K_Line>44441;K4_SP;4;K4;9876;Net sales;500000;500000;500000;EUR;</K_Line>
+    <K_Line>44441;K4_SP;4;K4;9876;Cost of material;500000;500000;500000;EUR;</K_Line>
+    <K_Line>44441;K4_SP;4;K4;9876;Manufacturing Cost;500000;500000;500000;EUR;</K_Line>
+    <K_Line>44441;K4_SP;4;K4;9876;Production Cost;500000;500000;500000;EUR;</K_Line>
+    <K_Line>55550;K5_SP;5;K5;9876;Amount;100000;100000;100000;kg;</K_Line>
+    <K_Line>55550;K5_SP;5;K5;9876;CM1;5000000;5000000;5000000;EUR;</K_Line>
+    <K_Line>55550;K5_SP;5;K5;9876;CM2;5000000;5000000;5000000;EUR;</K_Line>
+    <K_Line>55550;K5_SP;5;K5;9876;Net sales;5000000;5000000;5000000;EUR;</K_Line>
+    <K_Line>55550;K5_SP;5;K5;9876;Cost of material;5000000;5000000;5000000;EUR;</K_Line>
+    <K_Line>55550;K5_SP;5;K5;9876;Manufacturing Cost;5000000;5000000;5000000;EUR;</K_Line>
+    <K_Line>55550;K5_SP;5;K5;9876;Production Cost;5000000;5000000;5000000;EUR;</K_Line>
+    <K_Line>66660;K6_SP;6;K6;9876;Amount;1250000;1250000;1250000;kg;</K_Line>
+    <K_Line>66660;K6_SP;6;K6;9876;CM1;625000;625000;625000;EUR;</K_Line>
+    <K_Line>66660;K6_SP;6;K6;9876;CM2;625000;625000;625000;EUR;</K_Line>
+    <K_Line>66660;K6_SP;6;K6;9876;Net sales;625000;625000;625000;EUR;</K_Line>
+    <K_Line>66660;K6_SP;6;K6;9876;Cost of material;625000;625000;625000;EUR;</K_Line>
+    <K_Line>66660;K6_SP;6;K6;9876;Manufacturing Cost;625000;625000;625000;EUR;</K_Line>
+    <K_Line>66660;K6_SP;6;K6;9876;Production Cost;625000;625000;625000;EUR;</K_Line>
+    <K_Line>77770;K7_SP;7;K7;9876;Amount;2000000;2000000;2000000;kg;</K_Line>
+    <K_Line>77770;K7_SP;7;K7;9876;CM1;6000000;6000000;6000000;EUR;</K_Line>
+    <K_Line>77770;K7_SP;7;K7;9876;CM2;6000000;6000000;6000000;EUR;</K_Line>
+    <K_Line>77770;K7_SP;7;K7;9876;Net sales;6000000;6000000;6000000;EUR;</K_Line>
+    <K_Line>77770;K7_SP;7;K7;9876;Cost of material;6000000;6000000;6000000;EUR;</K_Line>
+    <K_Line>77770;K7_SP;7;K7;9876;Manufacturing Cost;6000000;6000000;6000000;EUR;</K_Line>
+    <K_Line>77770;K7_SP;7;K7;9876;Production Cost;6000000;6000000;6000000;EUR;</K_Line>
+    <K_Line>88880;K8_SP;8;K8;9876;Amount;250000;250000;250000;kg;</K_Line>
+    <K_Line>88880;K8_SP;8;K8;9876;CM1;500000;500000;500000;EUR;</K_Line>
+    <K_Line>88880;K8_SP;8;K8;9876;CM2;500000;500000;500000;EUR;</K_Line>
+    <K_Line>88880;K8_SP;8;K8;9876;Net sales;500000;500000;500000;EUR;</K_Line>
+    <K_Line>88880;K8_SP;8;K8;9876;Cost of material;500000;500000;500000;EUR;</K_Line>
+    <K_Line>88880;K8_SP;8;K8;9876;Manufacturing Cost;500000;500000;500000;EUR;</K_Line>
+    <K_Line>88880;K8_SP;8;K8;9876;Production Cost;500000;500000;500000;EUR;</K_Line>
+    <K_Line>99990;K9_SP;9;K9;9876;Amount;250000;250000;250000;kg;</K_Line>
+    <K_Line>99990;K9_SP;9;K9;9876;CM1;250000;250000;250000;EUR;</K_Line>
+    <K_Line>99990;K9_SP;9;K9;9876;CM2;250000;250000;250000;EUR;</K_Line>
+    <K_Line>99990;K9_SP;9;K9;9876;Net sales;250000;250000;250000;EUR;</K_Line>
+    <K_Line>99990;K9_SP;9;K9;9876;Cost of material;250000;250000;250000;EUR;</K_Line>
+    <K_Line>99990;K9_SP;9;K9;9876;Manufacturing Cost;250000;250000;250000;EUR;</K_Line>
+    <K_Line>99990;K9_SP;9;K9;9876;Production Cost;250000;250000;250000;EUR;</K_Line>
+    <K_Line>100000;K10_SP;10;K10;9876;Amount;1000000;1000000;1000000;kg;</K_Line>
+    <K_Line>100000;K10_SP;10;K10;9876;CM1;10000000;10000000;10000000;EUR;</K_Line>
+    <K_Line>100000;K10_SP;10;K10;9876;CM2;10000000;10000000;10000000;EUR;</K_Line>
+    <K_Line>100000;K10_SP;10;K10;9876;Net sales;10000000;10000000;10000000;EUR;</K_Line>
+    <K_Line>100000;K10_SP;10;K10;9876;Cost of material;10000000;10000000;10000000;EUR;</K_Line>
+    <K_Line>100000;K10_SP;10;K10;9876;Manufacturing Cost;10000000;10000000;10000000;EUR;</K_Line>
+    <K_Line>100000;K10_SP;10;K10;9876;Production Cost;10000000;10000000;10000000;EUR;</K_Line>
+    <K_Line>120000;K12_SP;12;K12;9876;Amount;100000;100000;100000;kg;</K_Line>
+    <K_Line>120000;K12_SP;12;K12;9876;CM1;12000000;12000000;12000000;EUR;</K_Line>
+    <K_Line>120000;K12_SP;12;K12;9876;CM2;12000000;12000000;12000000;EUR;</K_Line>
+    <K_Line>120000;K12_SP;12;K12;9876;Net sales;12000000;12000000;12000000;EUR;</K_Line>
+    <K_Line>120000;K12_SP;12;K12;9876;Cost of material;12000000;12000000;12000000;EUR;</K_Line>
+    <K_Line>120000;K12_SP;12;K12;9876;Manufacturing Cost;12000000;12000000;12000000;EUR;</K_Line>
+    <K_Line>120000;K12_SP;12;K12;9876;Production Cost;12000000;12000000;12000000;EUR;</K_Line>
+    <K_Line>130000;K13_SP;13;K13;9876;Amount;12000000;12000000;12000000;kg;</K_Line>
+    <K_Line>130000;K13_SP;13;K13;9876;CM1;12000000;12000000;12000000;EUR;</K_Line>
+    <K_Line>130000;K13_SP;13;K13;9876;CM2;12000000;12000000;12000000;EUR;</K_Line>
+    <K_Line>130000;K13_SP;13;K13;9876;Net sales;12000000;12000000;12000000;EUR;</K_Line>
+    <K_Line>130000;K13_SP;13;K13;9876;Cost of material;12000000;12000000;12000000;EUR;</K_Line>
+    <K_Line>130000;K13_SP;13;K13;9876;Manufacturing Cost;12000000;12000000;12000000;EUR;</K_Line>
+    <K_Line>130000;K13_SP;13;K13;9876;Production Cost;12000000;12000000;12000000;EUR;</K_Line>
+    <K_Line>150000;K15_SP;15;K15;9876;Amount;2000000;2000000;2000000;kg;</K_Line>
+    <K_Line>150000;K15_SP;15;K15;9876;CM1;20000;20000;20000;EUR;</K_Line>
+    <K_Line>150000;K15_SP;15;K15;9876;CM2;20000;20000;20000;EUR;</K_Line>
+    <K_Line>150000;K15_SP;15;K15;9876;Net sales;20000;20000;20000;EUR;</K_Line>
+    <K_Line>150000;K15_SP;15;K15;9876;Cost of material;20000;20000;20000;EUR;</K_Line>
+    <K_Line>150000;K15_SP;15;K15;9876;Manufacturing Cost;20000;20000;20000;EUR;</K_Line>
+    <K_Line>150000;K15_SP;15;K15;9876;Production Cost;20000;20000;20000;EUR;</K_Line>
+    <K_Line>160000;K16_SP;16;K16;9876;Amount;10000;10000;10000;kg;</K_Line>
+    <K_Line>160000;K16_SP;16;K16;9876;CM1;10000;10000;10000;EUR;</K_Line>
+    <K_Line>160000;K16_SP;16;K16;9876;CM2;10000;10000;10000;EUR;</K_Line>
+    <K_Line>160000;K16_SP;16;K16;9876;Net sales;10000;10000;10000;EUR;</K_Line>
+    <K_Line>160000;K16_SP;16;K16;9876;Cost of material;10000;10000;10000;EUR;</K_Line>
+    <K_Line>160000;K16_SP;16;K16;9876;Manufacturing Cost;10000;10000;10000;EUR;</K_Line>
+    <K_Line>160000;K16_SP;16;K16;9876;Production Cost;10000;10000;10000;EUR;</K_Line>
+    <K_DDYear>2012</K_DDYear>
+    <K_DDYearNo>2012</K_DDYearNo>
+    <K_DDFileName>Wirtschaftliche Zahlen_160218_co.csv</K_DDFileName>
+    <K_EPA>
+     <K_EPAType>0</K_EPAType>
+     <K_EPAYearNo>2012</K_EPAYearNo>
+     <K_EPAIndex>3</K_EPAIndex>
+     <K_EPAIndexMonth>0</K_EPAIndexMonth>
+     <K_EPAYear>2012</K_EPAYear>
+     <K_EPAMonth>0</K_EPAMonth>
+                </K_EPA>
+            </K_DDEcoData>
+        </K_DynamicData>
+  <K_Options>
+   <K_TimeString>y</K_TimeString>
+   <K_MassString>kg</K_MassString>
+   <K_EnergyString>kWh</K_EnergyString>
+   <K_CaptionPM>BASF</K_CaptionPM>
+   <K_ProjectID />
+   <K_CheckPGPPath>1</K_CheckPGPPath>
+   <K_AlternativeCapacity>0</K_AlternativeCapacity>
+   <K_RulesUseMarketing>1</K_RulesUseMarketing>
+   <K_ProjectStatus>Historical</K_ProjectStatus>
+   <K_ScenName />
+   <K_ProjectStatusDate>08.02.2012</K_ProjectStatusDate>
+   <K_OptTimeComp>1</K_OptTimeComp>
+   <K_OptActYear>2011</K_OptActYear>
+   <K_OptActYearEval>2007</K_OptActYearEval>
+   <K_OptCompMode>0</K_OptCompMode>
+   <K_ReportVersion>0</K_ReportVersion>
+   <K_OptAutoTol>0.000010</K_OptAutoTol>
+   <K_OptActEvalPeriodBegin>40544.0</K_OptActEvalPeriodBegin>
+   <K_OptActEvalPeriodEnd>40908.0</K_OptActEvalPeriodEnd>
+   <K_ProdVis>1</K_ProdVis>
+   <K_FixEVis>1</K_FixEVis>
+   <K_DTVis>1</K_DTVis>
+   <K_FixDTVis>1</K_FixDTVis>
+   <K_StartUpVis>1</K_StartUpVis>
+   <K_MemoryXML>400</K_MemoryXML>
+   <K_UseEmoData>1</K_UseEmoData>
+        </K_Options>
+  <K_Emos>
+   <K_Emo>
+    <K_name>EM_001</K_name>
+    <K_Description>EM_001</K_Description>
+    <KComment>comment</KComment>
+    <K_RulesUseMarketing>1</K_RulesUseMarketing>
+    <K_OptTimeComp>1</K_OptTimeComp>
+    <K_OptActYear>2011</K_OptActYear>
+    <K_OptActYearEval>2007</K_OptActYearEval>
+    <K_OptActEvalPeriodBegin>40544.0</K_OptActEvalPeriodBegin>
+    <K_OptActEvalPeriodEnd>40908.0</K_OptActEvalPeriodEnd>
+    <K_OptCompMode>0</K_OptCompMode>
+    <K_OptFixDownTime>0</K_OptFixDownTime>
+    <K_Selected>1</K_Selected>
+    <K_DynamicData>
+     <K_SaveDDInProject>1</K_SaveDDInProject>
+     <K_DDMarketing>
+      <K_Line>K_Version;-1</K_Line>
+      <K_Line>K_Type;MA</K_Line>
+      <K_Line>K_StartData</K_Line>
+      <K_Line />
+      <K_DDFileName>cit</K_DDFileName>
+      <K_EPA>
+       <K_EPAType>0</K_EPAType>
+       <K_EPAYearNo>2012</K_EPAYearNo>
+       <K_EPAIndex>3</K_EPAIndex>
+       <K_EPAIndexMonth>0</K_EPAIndexMonth>
+       <K_EPAYear>2012</K_EPAYear>
+       <K_EPAMonth>total (2 months)</K_EPAMonth>
+                        </K_EPA>
+                    </K_DDMarketing>
+     <K_DDTankData>
+      <K_Line>K_Version;-1</K_Line>
+      <K_Line>K_Type;IN</K_Line>
+      <K_Line>K_StartData</K_Line>
+      <K_Line />
+      <K_DDFileName>cit</K_DDFileName>
+      <K_EPA>
+       <K_EPAType>0</K_EPAType>
+       <K_EPAYearNo>2012</K_EPAYearNo>
+       <K_EPAIndex>3</K_EPAIndex>
+       <K_EPAIndexMonth>0</K_EPAIndexMonth>
+       <K_EPAYear>2012</K_EPAYear>
+       <K_EPAMonth>total (2 months)</K_EPAMonth>
+                        </K_EPA>
+                    </K_DDTankData>
+     <K_DDEcoData>
+      <K_Line>K_Version;-1</K_Line>
+      <K_Line>K_Type;EC</K_Line>
+      <K_Line>K_StartData</K_Line>
+      <K_Line />
+      <K_DDFileName>cit</K_DDFileName>
+      <K_EPA>
+       <K_EPAType>0</K_EPAType>
+       <K_EPAYearNo>2012</K_EPAYearNo>
+       <K_EPAIndex>3</K_EPAIndex>
+       <K_EPAIndexMonth>0</K_EPAIndexMonth>
+       <K_EPAYear>2012</K_EPAYear>
+       <K_EPAMonth>0</K_EPAMonth>
+                        </K_EPA>
+                    </K_DDEcoData>
+                </K_DynamicData>
+            </K_Emo>
+        </K_Emos>
+  <K_DirectSteamComment />
+  <K_OptPresentation>
+   <K_PresOptNoArrowsUnits>6</K_PresOptNoArrowsUnits>
+   <K_PresOptNoArrowsPlants>6</K_PresOptNoArrowsPlants>
+   <K_PresOptNoUnitPanels>6</K_PresOptNoUnitPanels>
+   <K_OptPresGroup K_PresGroupType="site_in_1">
+    <K_PresGroupFactor>1.0</K_PresGroupFactor>
+    <K_PresGroupFactorDiff>1.0</K_PresGroupFactorDiff>
+            </K_OptPresGroup>
+   <K_OptPresGroup K_PresGroupType="site_in_2">
+    <K_PresGroupFactor>1.0</K_PresGroupFactor>
+    <K_PresGroupFactorDiff>1.0</K_PresGroupFactorDiff>
+            </K_OptPresGroup>
+   <K_OptPresGroup K_PresGroupType="site_out_1">
+    <K_PresGroupFactor>1.0</K_PresGroupFactor>
+    <K_PresGroupFactorDiff>1.0</K_PresGroupFactorDiff>
+            </K_OptPresGroup>
+   <K_OptPresGroup K_PresGroupType="site_out_2">
+    <K_PresGroupFactor>1.0</K_PresGroupFactor>
+    <K_PresGroupFactorDiff>1.0</K_PresGroupFactorDiff>
+            </K_OptPresGroup>
+   <K_OptPresGroup K_PresGroupType="plant_in_1">
+    <K_PresGroupFactor>1.0</K_PresGroupFactor>
+    <K_PresGroupFactorDiff>1.0</K_PresGroupFactorDiff>
+            </K_OptPresGroup>
+   <K_OptPresGroup K_PresGroupType="plant_out_1">
+    <K_PresGroupFactor>1.0</K_PresGroupFactor>
+    <K_PresGroupFactorDiff>1.0</K_PresGroupFactorDiff>
+            </K_OptPresGroup>
+   <K_OptPresGroup K_PresGroupType="unit_1">
+    <K_PresGroupFactor>1.0</K_PresGroupFactor>
+            </K_OptPresGroup>
+   <K_OptPresGroup K_PresGroupType="unit_2">
+    <K_PresGroupFactor>1.0</K_PresGroupFactor>
+            </K_OptPresGroup>
+   <K_OptPresGroup K_PresGroupType="unit_3">
+    <K_PresGroupFactor>1.0</K_PresGroupFactor>
+            </K_OptPresGroup>
+   <K_OptPresGroup K_PresGroupType="unit_4">
+    <K_PresGroupFactor>1.0</K_PresGroupFactor>
+            </K_OptPresGroup>
+   <K_OptPresGroup K_PresGroupType="unit_5">
+    <K_PresGroupFactor>1.0</K_PresGroupFactor>
+            </K_OptPresGroup>
+   <K_OptPresGroup K_PresGroupType="unit_6">
+    <K_PresGroupFactor>1.0</K_PresGroupFactor>
+            </K_OptPresGroup>
+   <K_OptPresGroup K_PresGroupType="unit_7">
+    <K_PresGroupFactor>1.0</K_PresGroupFactor>
+            </K_OptPresGroup>
+   <K_OptPresGroup K_PresGroupType="unit_8">
+    <K_PresGroupFactor>1.0</K_PresGroupFactor>
+            </K_OptPresGroup>
+   <K_OptPresGroup K_PresGroupType="unit_9">
+    <K_PresGroupFactor>1.0</K_PresGroupFactor>
+            </K_OptPresGroup>
+   <K_OptPresGroup K_PresGroupType="unit_10">
+    <K_PresGroupFactor>1.0</K_PresGroupFactor>
+            </K_OptPresGroup>
+        </K_OptPresentation>
+  <K_Hierarchy09>
+   <K_Version>1</K_Version>
+   <K_Base>
+    <K_HierName>BASF_SE</K_HierName>
+    <K_Site>
+     <K_HierName>9876</K_HierName>
+     <K_OperatingDivision>
+      <K_HierName>Test</K_HierName>
+      <K_BusinessUnit>
+       <K_HierName>Test</K_HierName>
+       <K_SubDepartment>
+        <K_HierName>Test</K_HierName>
+        <K_CostCenter>
+         <K_HierName>100000</K_HierName>
+                                </K_CostCenter>
+        <K_CostCenter>
+         <K_HierName>200000</K_HierName>
+                                </K_CostCenter>
+        <K_CostCenter>
+         <K_HierName>300000</K_HierName>
+                                </K_CostCenter>
+        <K_CostCenter>
+         <K_HierName>400000</K_HierName>
+                                </K_CostCenter>
+        <K_CostCenter>
+         <K_HierName>500000</K_HierName>
+                                </K_CostCenter>
+                            </K_SubDepartment>
+                        </K_BusinessUnit>
+                    </K_OperatingDivision>
+     <K_OperatingDivision>
+      <K_HierName>LOG</K_HierName>
+      <K_BusinessUnit>
+       <K_HierName>LOG</K_HierName>
+       <K_SubDepartment>
+        <K_HierName>LOG</K_HierName>
+        <K_CostCenter>
+         <K_HierName>T9876</K_HierName>
+                                </K_CostCenter>
+                            </K_SubDepartment>
+                        </K_BusinessUnit>
+                    </K_OperatingDivision>
+                </K_Site>
+    <K_Site>
+     <K_HierName>1234</K_HierName>
+     <K_OperatingDivision>
+      <K_HierName>OP1</K_HierName>
+      <K_BusinessUnit>
+       <K_HierName>BU1</K_HierName>
+       <K_SubDepartment>
+        <K_HierName>SubD1</K_HierName>
+        <K_CostCenter>
+         <K_HierName>CC1</K_HierName>
+                                </K_CostCenter>
+                            </K_SubDepartment>
+                        </K_BusinessUnit>
+                    </K_OperatingDivision>
+                </K_Site>
+    <K_Site>
+     <K_HierName>UNDEFINED</K_HierName>
+     <K_OperatingDivision>
+      <K_HierName>UNDEFINED</K_HierName>
+      <K_BusinessUnit>
+       <K_HierName>UNDEFINED</K_HierName>
+       <K_SubDepartment>
+        <K_HierName>UNDEFINED</K_HierName>
+        <K_CostCenter>
+         <K_HierName>UNDEFINED</K_HierName>
+                                </K_CostCenter>
+                            </K_SubDepartment>
+                        </K_BusinessUnit>
+                    </K_OperatingDivision>
+                </K_Site>
+            </K_Base>
+        </K_Hierarchy09>
+  <K_HierarchyComp>
+   <K_Version>1</K_Version>
+   <K_Base>
+    <K_HierName>BASF_SE</K_HierName>
+    <K_CH_B>
+     <K_HierName>UNDEFINED</K_HierName>
+     <K_CH_GE>
+      <K_HierName>UNDEFINED</K_HierName>
+      <K_CH_PB>
+       <K_HierName>UNDEFINED</K_HierName>
+       <K_CH_PHG>
+        <K_HierName>UNDEFINED</K_HierName>
+        <K_CH_PUG>
+         <K_HierName>UNDEFINED</K_HierName>
+                                </K_CH_PUG>
+                            </K_CH_PHG>
+                        </K_CH_PB>
+                    </K_CH_GE>
+                </K_CH_B>
+            </K_Base>
+        </K_HierarchyComp>
+  <K_Trackings>
+   <K_Tracking>
+    <K_ThresholdGlobal>1.000000000000000e-03</K_ThresholdGlobal>
+    <K_ThresholdRecipe>1.000000000000000e-02</K_ThresholdRecipe>
+    <K_ThresholdRecipeSP>1.000000000000000e-02</K_ThresholdRecipeSP>
+    <K_ThresholdGlobalSP>1.000000000000000e-03</K_ThresholdGlobalSP>
+    <K_TrackIntermediateSel>0</K_TrackIntermediateSel>
+    <K_TrackConsiderSP>0</K_TrackConsiderSP>
+    <K_OnlyRelevant>0</K_OnlyRelevant>
+    <K_ComputeStoi>1</K_ComputeStoi>
+    <K_ComputeEff>1</K_ComputeEff>
+    <K_ComputeForw>1</K_ComputeForw>
+    <K_ComputeBackw>1</K_ComputeBackw>
+    <K_NormalizeEduct>0</K_NormalizeEduct>
+    <K_NormalizeProduct>0</K_NormalizeProduct>
+    <K_IterComp>1</K_IterComp>
+    <K_ShowUnit>1</K_ShowUnit>
+    <K_ShowSPValues>1</K_ShowSPValues>
+    <K_ShowPurchase>1</K_ShowPurchase>
+    <K_ShowDerivSp>1</K_ShowDerivSp>
+    <K_DecimalPlaces>3</K_DecimalPlaces>
+    <K_DecimalPlacesRecResults>1</K_DecimalPlacesRecResults>
+    <K_Amount>100.0</K_Amount>
+    <K_Label>1</K_Label>
+    <K_NumberChar>25</K_NumberChar>
+    <K_SinP>1</K_SinP>
+            </K_Tracking>
+        </K_Trackings>
+  <K_SQL>
+   <K_FileName />
+        </K_SQL>
+  <K_ProjectViews>
+   <K_ProjectView>
+    <K_name>Standard view</K_name>
+    <K_Selected>1</K_Selected>
+    <K_ProjectColumns K_Type="Units">
+     <K_ProjViewSortIndex Heading="Unit code">28</K_ProjViewSortIndex>
+     <K_ProjViewSortUp>1</K_ProjViewSortUp>
+     <K_Column>
+      <K_KeyId>K_id</K_KeyId>
+      <K_Width>91</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CapacityUnit</K_KeyId>
+      <K_Width>81</K_Width>
+      <K_RefSolDiffCol>1</K_RefSolDiffCol>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_SiteCode</K_KeyId>
+      <K_Width>76</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_name</K_KeyId>
+      <K_Width>89</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_considerbounds</K_KeyId>
+      <K_Width>158</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EPBalance</K_KeyId>
+      <K_Width>91</K_Width>
+      <K_RefSolDiffCol>1</K_RefSolDiffCol>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_UnitFunction</K_KeyId>
+      <K_Width>63</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_Type</K_KeyId>
+      <K_Width>75</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_YearOpHours</K_KeyId>
+      <K_Width>124</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CostCenter</K_KeyId>
+      <K_Width>132</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_Building</K_KeyId>
+      <K_Width>51</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_code</K_KeyId>
+      <K_Width>93</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_UnitCalcProd</K_KeyId>
+      <K_Width>123</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_UnitNoUOMs</K_KeyId>
+      <K_Width>63</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_UnitBlocked</K_KeyId>
+      <K_Width>51</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_UnitSpecVals</K_KeyId>
+      <K_Width>101</K_Width>
+                    </K_Column>
+                </K_ProjectColumns>
+    <K_ProjectColumns K_Type="UOMs">
+     <K_ProjViewSortIndex Heading="Name">27</K_ProjViewSortIndex>
+     <K_ProjViewSortUp>1</K_ProjViewSortUp>
+     <K_Column>
+      <K_KeyId>K_name</K_KeyId>
+      <K_Width>159</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_Description</K_KeyId>
+      <K_Width>68</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_UOMOwnerUnit</K_KeyId>
+      <K_Width>69</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_UOMEndProduct</K_KeyId>
+      <K_Width>73</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_UOMEPBal</K_KeyId>
+      <K_Width>91</K_Width>
+      <K_RefSolCol>1</K_RefSolCol>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_OpModeType</K_KeyId>
+      <K_Width>75</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_UMValidSMRelevant</K_KeyId>
+      <K_Width>116</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_UOMUsedInPf</K_KeyId>
+      <K_Width>111</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_actload</K_KeyId>
+      <K_Width>71</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_UOMLogCap</K_KeyId>
+      <K_Width>75</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_UOMCompTime</K_KeyId>
+      <K_Width>64</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_UMPriority</K_KeyId>
+      <K_Width>158</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_UMPriorityMainProduct</K_KeyId>
+      <K_Width>127</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_UMSplitType</K_KeyId>
+      <K_Width>60</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_UOMSplitValue</K_KeyId>
+      <K_Width>64</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_IterComp</K_KeyId>
+      <K_Width>113</K_Width>
+                    </K_Column>
+                </K_ProjectColumns>
+    <K_ProjectColumns K_Type="Components">
+     <K_ProjViewSortIndex Heading="Description">27</K_ProjViewSortIndex>
+     <K_ProjViewSortUp>1</K_ProjViewSortUp>
+     <K_Column>
+      <K_KeyId>K_name</K_KeyId>
+      <K_Width>69</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_id</K_KeyId>
+      <K_Width>129</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompMarkPlan</K_KeyId>
+      <K_Width>121</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompDevBal</K_KeyId>
+      <K_Width>187</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompMarketPlanValue</K_KeyId>
+      <K_Width>123</K_Width>
+      <K_VectorIndex>2</K_VectorIndex>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompSiteBal</K_KeyId>
+      <K_Width>105</K_Width>
+      <K_VectorIndex>2</K_VectorIndex>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompInputSiteBal</K_KeyId>
+      <K_Width>132</K_Width>
+      <K_VectorIndex>2</K_VectorIndex>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompSiteIntCons</K_KeyId>
+      <K_Width>167</K_Width>
+      <K_VectorIndex>2</K_VectorIndex>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompSiteInvChange</K_KeyId>
+      <K_Width>157</K_Width>
+      <K_VectorIndex>2</K_VectorIndex>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompOutputSiteBal</K_KeyId>
+      <K_Width>140</K_Width>
+      <K_VectorIndex>2</K_VectorIndex>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompSitePurchase</K_KeyId>
+      <K_Width>117</K_Width>
+      <K_VectorIndex>2</K_VectorIndex>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompSiteSales</K_KeyId>
+      <K_Width>92</K_Width>
+      <K_VectorIndex>2</K_VectorIndex>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompMarkPlan</K_KeyId>
+      <K_Width>134</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompBal</K_KeyId>
+      <K_Width>76</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_TankDirRange</K_KeyId>
+      <K_Width>106</K_Width>
+      <K_PVNoDigits>6</K_PVNoDigits>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_TankDirRange</K_KeyId>
+      <K_Width>106</K_Width>
+      <K_VectorIndex>2</K_VectorIndex>
+      <K_PVNoDigits>6</K_PVNoDigits>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_TankIndirRange</K_KeyId>
+      <K_Width>115</K_Width>
+      <K_PVNoDigits>4</K_PVNoDigits>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_TankIndirRange</K_KeyId>
+      <K_Width>115</K_Width>
+      <K_VectorIndex>2</K_VectorIndex>
+      <K_PVNoDigits>4</K_PVNoDigits>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompActPhysUnitPerTime</K_KeyId>
+      <K_Width>105</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompInput</K_KeyId>
+      <K_Width>89</K_Width>
+      <K_RefSolDiffCol>1</K_RefSolDiffCol>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompOutput</K_KeyId>
+      <K_Width>97</K_Width>
+      <K_RefSolDiffCol>1</K_RefSolDiffCol>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompDevBal</K_KeyId>
+      <K_Width>187</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompNoModes</K_KeyId>
+      <K_Width>66</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompMPModes</K_KeyId>
+      <K_Width>63</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompICModes</K_KeyId>
+      <K_Width>60</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompICModesProd</K_KeyId>
+      <K_Width>85</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompICModesDiff</K_KeyId>
+      <K_Width>102</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_CompActPhysUnitPerTime</K_KeyId>
+      <K_Width>105</K_Width>
+                    </K_Column>
+                </K_ProjectColumns>
+    <K_ProjectColumns K_Type="Plants">
+     <K_ProjViewSortUp>1</K_ProjViewSortUp>
+     <K_Column>
+      <K_KeyId>K_PlantName</K_KeyId>
+      <K_Width>51</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>KPlantDescr</K_KeyId>
+      <K_Width>68</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_PlantNoUnits</K_KeyId>
+      <K_Width>58</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_PlantOD</K_KeyId>
+      <K_Width>138</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_PlantBU</K_KeyId>
+      <K_Width>114</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_PlantSD</K_KeyId>
+      <K_Width>136</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>KSiteCode</K_KeyId>
+      <K_Width>59</K_Width>
+                    </K_Column>
+                </K_ProjectColumns>
+    <K_ProjectColumns K_Type="Components groups">
+     <K_ProjViewSortIndex Heading="Group name">613</K_ProjViewSortIndex>
+     <K_ProjViewSortUp>1</K_ProjViewSortUp>
+     <K_Column>
+      <K_KeyId>K_GroupName</K_KeyId>
+      <K_Width>213</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_GroupShortName</K_KeyId>
+      <K_Width>213</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_GroupEval</K_KeyId>
+      <K_Width>89</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_GroupNo</K_KeyId>
+      <K_Width>115</K_Width>
+                    </K_Column>
+                </K_ProjectColumns>
+    <K_ProjectColumns K_Type="Plant views">
+     <K_ProjViewSortUp>1</K_ProjViewSortUp>
+     <K_Column>
+      <K_KeyId>K_PlantViewName</K_KeyId>
+      <K_Width>50</K_Width>
+                    </K_Column>
+                </K_ProjectColumns>
+    <K_ProjectColumns K_Type="Overview">
+     <K_ProjViewSortUp>1</K_ProjViewSortUp>
+     <K_Column>
+      <K_KeyId>KSiteCode</K_KeyId>
+      <K_Width>59</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>KOverComp</K_KeyId>
+      <K_Width>70</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_OverUnit</K_KeyId>
+      <K_Width>50</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_OverBalType</K_KeyId>
+      <K_Width>135</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_OverUOM</K_KeyId>
+      <K_Width>93</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_OverProdValue</K_KeyId>
+      <K_Width>57</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_OverProdInput</K_KeyId>
+      <K_Width>51</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_OverProdOutput</K_KeyId>
+      <K_Width>51</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_OverActPhysUnitPT</K_KeyId>
+      <K_Width>105</K_Width>
+                    </K_Column>
+                </K_ProjectColumns>
+    <K_ProjectColumns K_Type="Sales report">
+     <K_ProjViewSortUp>1</K_ProjViewSortUp>
+     <K_Column>
+      <K_KeyId>KPRDName</K_KeyId>
+      <K_Width>51</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_PRDCcomp</K_KeyId>
+      <K_Width>50</K_Width>
+                    </K_Column>
+     <K_Column K_Type="Components">
+      <K_KeyId>K_name</K_KeyId>
+      <K_Width>130</K_Width>
+      <K_PVParentKeyId String="K_PRDCcomp">628</K_PVParentKeyId>
+                    </K_Column>
+     <K_Column K_Type="Components">
+      <K_KeyId>K_nameUnit</K_KeyId>
+      <K_Width>60</K_Width>
+      <K_PVParentKeyId String="K_PRDCcomp">628</K_PVParentKeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_PRDAmount</K_KeyId>
+      <K_Width>93</K_Width>
+      <K_VectorIndex>2</K_VectorIndex>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_PRD_Sales</K_KeyId>
+      <K_Width>93</K_Width>
+      <K_VectorIndex>2</K_VectorIndex>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_PRDCM1</K_KeyId>
+      <K_Width>93</K_Width>
+      <K_VectorIndex>2</K_VectorIndex>
+                    </K_Column>
+     <K_Column K_Type="Components">
+      <K_KeyId>K_CompBal</K_KeyId>
+      <K_Width>138</K_Width>
+      <K_RefSolCol>1</K_RefSolCol>
+      <K_PVParentKeyId String="K_PRDCcomp">628</K_PVParentKeyId>
+                    </K_Column>
+                </K_ProjectColumns>
+    <K_ProjectColumns K_Type="Recipe head">
+     <K_ProjViewSortUp>1</K_ProjViewSortUp>
+     <K_Column>
+      <K_KeyId>K_RHunit</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_RHuom</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_RHid</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_RHtype</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_RHrefLoad</K_KeyId>
+                    </K_Column>
+                </K_ProjectColumns>
+    <K_ProjectColumns K_Type="Recipe components">
+     <K_ProjViewSortUp>1</K_ProjViewSortUp>
+     <K_Column>
+      <K_KeyId>KRCunit</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>KRCuom</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>KRCid</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>KRCcomp</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>KRCamountplan</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EndProduct</K_KeyId>
+                    </K_Column>
+                </K_ProjectColumns>
+    <K_ProjectColumns K_Type="Tracking report">
+     <K_ProjViewSortUp>1</K_ProjViewSortUp>
+     <K_Column>
+      <K_KeyId>K_TRI_target</K_KeyId>
+                    </K_Column>
+     <K_Column K_Type="Components">
+      <K_KeyId>K_id</K_KeyId>
+      <K_name>Component PBG</K_name>
+      <K_PVParentKeyId String="K_TRI_comp">730</K_PVParentKeyId>
+                    </K_Column>
+     <K_Column K_Type="Components">
+      <K_KeyId>K_name</K_KeyId>
+      <K_name>Component description</K_name>
+      <K_Width>69</K_Width>
+      <K_PVParentKeyId String="K_TRI_comp">730</K_PVParentKeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_TRIType</K_KeyId>
+                    </K_Column>
+     <K_Column K_Type="Components">
+      <K_KeyId>K_nameUnit</K_KeyId>
+      <K_name>Unit</K_name>
+      <K_PVParentKeyId String="K_TRI_comp">730</K_PVParentKeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_TRI_capSt</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_TRI_capEff</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_TRI_purSt</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_TRI_purEff</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_TRI_outSt</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_TRI_outEff</K_KeyId>
+                    </K_Column>
+     <K_Column K_Type="Components">
+      <K_KeyId>K_id</K_KeyId>
+      <K_name>Fwd Product PBG</K_name>
+      <K_PVParentKeyId String="K_TRIForwComp">742</K_PVParentKeyId>
+                    </K_Column>
+     <K_Column K_Type="Components">
+      <K_KeyId>K_name</K_KeyId>
+      <K_name>Fwd Product Description</K_name>
+      <K_PVParentKeyId String="K_TRIForwComp">742</K_PVParentKeyId>
+                    </K_Column>
+     <K_Column K_Type="Components">
+      <K_KeyId>K_id</K_KeyId>
+      <K_name>Origin PBG</K_name>
+      <K_PVParentKeyId String="K_TRIOrgComp">743</K_PVParentKeyId>
+                    </K_Column>
+     <K_Column K_Type="Components">
+      <K_KeyId>K_name</K_KeyId>
+      <K_name>Origin Description</K_name>
+      <K_PVParentKeyId String="K_TRIOrgComp">743</K_PVParentKeyId>
+                    </K_Column>
+                </K_ProjectColumns>
+    <K_ProjectColumns K_Type="Evaluation mode definition">
+     <K_ProjViewSortUp>1</K_ProjViewSortUp>
+     <K_Column>
+      <K_KeyId>K_EmoDescr</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EmoBegin</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EmoEnd</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EmoType</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EmoMode</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EmoMD</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EmoPD</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EmoTD</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EmoCC</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_WRType</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_ScenName</K_KeyId>
+                    </K_Column>
+                </K_ProjectColumns>
+    <K_ProjectColumns K_Type="Energies">
+     <K_ProjViewSortUp>1</K_ProjViewSortUp>
+     <K_Column>
+      <K_KeyId>K_EnergiesComp</K_KeyId>
+      <K_Width>70</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EnergiesCompDescr</K_KeyId>
+      <K_Width>101</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EnergiesCC</K_KeyId>
+      <K_Width>71</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EnergiesCCDescr</K_KeyId>
+      <K_Width>84</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_SiteCode</K_KeyId>
+      <K_Width>59</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EnergiesVal</K_KeyId>
+      <K_Width>54</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EnergiesUnit</K_KeyId>
+      <K_Width>105</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EnergiesYear</K_KeyId>
+      <K_Width>50</K_Width>
+                    </K_Column>
+                </K_ProjectColumns>
+    <K_ProjectColumns K_Type="Inventories">
+     <K_ProjViewSortIndex Heading="Component">811</K_ProjViewSortIndex>
+     <K_ProjViewSortUp>1</K_ProjViewSortUp>
+     <K_Column>
+      <K_KeyId>K_InvComp</K_KeyId>
+      <K_Width>102</K_Width>
+                    </K_Column>
+     <K_Column K_Type="Components">
+      <K_KeyId>K_TankDirRange</K_KeyId>
+      <K_Width>188</K_Width>
+      <K_VectorIndex>2</K_VectorIndex>
+      <K_PVNoDigits>4</K_PVNoDigits>
+      <K_PVParentKeyId String="K_InvComp">811</K_PVParentKeyId>
+                    </K_Column>
+     <K_Column K_Type="Components">
+      <K_KeyId>K_id</K_KeyId>
+      <K_Width>155</K_Width>
+      <K_PVParentKeyId String="K_InvComp">811</K_PVParentKeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_InvSite</K_KeyId>
+      <K_Width>50</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_InvLoc</K_KeyId>
+      <K_Width>101</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_InvLocDescr</K_KeyId>
+      <K_Width>110</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_InvCap</K_KeyId>
+      <K_Width>118</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_InvDynDat</K_KeyId>
+      <K_Width>116</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_InvMaxCap</K_KeyId>
+      <K_Width>105</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_InvAvgCap</K_KeyId>
+      <K_Width>78</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_InvMinCap</K_KeyId>
+      <K_Width>75</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_InvCC</K_KeyId>
+      <K_Width>71</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_InvBWMVD</K_KeyId>
+      <K_Width>116</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_InvBWMV</K_KeyId>
+      <K_Width>91</K_Width>
+                    </K_Column>
+                </K_ProjectColumns>
+    <K_ProjectColumns K_Type="Energies from report">
+     <K_ProjViewSortUp>1</K_ProjViewSortUp>
+     <K_Column>
+      <K_KeyId>K_ESite</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EIris</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_ELogibas</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EAusl</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EPBG</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EMaterial</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EAbw</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_ESumYear</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EUnitRep</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_ESumYearNeed</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EUnitRep</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_ESumPlan</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EUnitRep</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EMin</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EMax</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EUom</K_KeyId>
+      <K_Width>59</K_Width>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EMatMax</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_EPeek</K_KeyId>
+                    </K_Column>
+                </K_ProjectColumns>
+    <K_ProjectColumns K_Type="ComponentsSiteReport">
+     <K_ProjViewSortUp>1</K_ProjViewSortUp>
+     <K_Column>
+      <K_KeyId>K_ReportSite</K_KeyId>
+                    </K_Column>
+     <K_Column>
+      <K_KeyId>K_ReportPt</K_KeyId>
+                    </K_Column>
+                </K_ProjectColumns>
+            </K_ProjectView>
+        </K_ProjectViews>
+  <K_SRDef>
+   <K_SROption>
+    <_KSROptExcel>0</_KSROptExcel>
+    <K_SROptExcelCD>1</K_SROptExcelCD>
+    <K_SROptEnergy>0</K_SROptEnergy>
+    <K_SROptEqui>0</K_SROptEqui>
+            </K_SROption>
+   <K_SRItem>
+    <K_name>RW_2</K_name>
+    <K_Description>RW_1</K_Description>
+    <K_MaxIter>100</K_MaxIter>
+    <K_Tol>0.0010000000</K_Tol>
+    <K_Time>30.0</K_Time>
+    <K_Site>9876</K_Site>
+    <K_SelBasis>1</K_SelBasis>
+    <K_SRGraphic>0</K_SRGraphic>
+    <K_SRCompute>0</K_SRCompute>
+    <K_SRUseMinStep>0</K_SRUseMinStep>
+    <K_SRMinStep>0.</K_SRMinStep>
+    <ChartAdmin />
+    <K_ShutDownItems>
+     <K_ShutDownItem>
+      <K_unit>L:9876</K_unit>
+      <K_UomId>150000000_0100</K_UomId>
+      <K_active>1</K_active>
+      <K_ShutDownTimes>
+       <K_VShutDownTime>
+        <K_Time>0.</K_Time>
+        <K_active>1</K_active>
+        <K_VShutPerc>0.</K_VShutPerc>
+                            </K_VShutDownTime>
+                        </K_ShutDownTimes>
+                    </K_ShutDownItem>
+                </K_ShutDownItems>
+    <K_ShutDownItemsPbg />
+            </K_SRItem>
+   <K_SRItem>
+    <K_name>RW_1</K_name>
+    <K_Description>RW_1</K_Description>
+    <K_MaxIter>100</K_MaxIter>
+    <K_Tol>0.0010000000</K_Tol>
+    <K_Time>60.0</K_Time>
+    <K_Site>9876</K_Site>
+    <K_SelBasis>4</K_SelBasis>
+    <K_SRGraphic>0</K_SRGraphic>
+    <K_SRCompute>0</K_SRCompute>
+    <K_SRUseMinStep>0</K_SRUseMinStep>
+    <K_SRMinStep>0.</K_SRMinStep>
+    <ChartAdmin />
+    <K_ShutDownItems>
+     <K_ShutDownItem>
+      <K_unit>B:9876</K_unit>
+      <K_UomId>50000000_0200</K_UomId>
+      <K_active>1</K_active>
+      <K_ShutDownTimes>
+       <K_VShutDownTime>
+        <K_Time>0.</K_Time>
+        <K_active>1</K_active>
+        <K_VShutPerc>0.</K_VShutPerc>
+                            </K_VShutDownTime>
+                        </K_ShutDownTimes>
+                    </K_ShutDownItem>
+                </K_ShutDownItems>
+    <K_ShutDownItemsPbg />
+            </K_SRItem>
+   <K_SRItem>
+    <K_name>RW_4</K_name>
+    <K_Description>RW_3</K_Description>
+    <K_MaxIter>100</K_MaxIter>
+    <K_Tol>0.0010000000</K_Tol>
+    <K_Time>2.0</K_Time>
+    <K_Site>9876</K_Site>
+    <K_SelBasis>1</K_SelBasis>
+    <K_SRGraphic>0</K_SRGraphic>
+    <K_SRCompute>1</K_SRCompute>
+    <K_SRUseMinStep>0</K_SRUseMinStep>
+    <K_SRMinStep>0.</K_SRMinStep>
+    <ChartAdmin />
+    <K_ShutDownItems>
+     <K_ShutDownItem>
+      <K_unit>D:9876</K_unit>
+      <K_UomId>70000000_0100</K_UomId>
+      <K_active>1</K_active>
+      <K_ShutDownTimes>
+       <K_VShutDownTime>
+        <K_Time>0.</K_Time>
+        <K_active>1</K_active>
+        <K_VShutPerc>50.0</K_VShutPerc>
+                            </K_VShutDownTime>
+       <K_VShutDownTime>
+        <K_Time>1.0</K_Time>
+        <K_active>1</K_active>
+        <K_VShutPerc>0.</K_VShutPerc>
+                            </K_VShutDownTime>
+                        </K_ShutDownTimes>
+                    </K_ShutDownItem>
+                </K_ShutDownItems>
+    <K_ShutDownItemsPbg />
+            </K_SRItem>
+   <K_SRItem>
+    <K_name>RW_3</K_name>
+    <K_Description>RW_4</K_Description>
+    <K_MaxIter>100</K_MaxIter>
+    <K_Tol>0.0010000000</K_Tol>
+    <K_Time>30.0</K_Time>
+    <K_Site>9876</K_Site>
+    <K_SelBasis>2</K_SelBasis>
+    <K_SRGraphic>0</K_SRGraphic>
+    <K_SRCompute>0</K_SRCompute>
+    <K_SRUseMinStep>0</K_SRUseMinStep>
+    <K_SRMinStep>0.</K_SRMinStep>
+    <ChartAdmin />
+    <K_ShutDownItems>
+     <K_ShutDownItem>
+      <K_unit>L:9876</K_unit>
+      <K_UomId>150000000_0100</K_UomId>
+      <K_active>1</K_active>
+      <K_ShutDownTimes>
+       <K_VShutDownTime>
+        <K_Time>0.</K_Time>
+        <K_active>1</K_active>
+        <K_VShutPerc>0.</K_VShutPerc>
+                            </K_VShutDownTime>
+                        </K_ShutDownTimes>
+                    </K_ShutDownItem>
+                </K_ShutDownItems>
+    <K_ShutDownItemsPbg />
+            </K_SRItem>
+        </K_SRDef>
+  <K_ConsumPrio>
+   <K_StoreLoc>150000000_0100:L:9876</K_StoreLoc>
+   <K_Component>14</K_Component>
+   <K_Priority>1</K_Priority>
+        </K_ConsumPrio>
+  <K_ConsumPrio>
+   <K_StoreLoc>160000000_0100:M:9876</K_StoreLoc>
+   <K_Component>14</K_Component>
+   <K_Priority>2</K_Priority>
+        </K_ConsumPrio>
+  <K_Inventory>
+   <K_Component>1</K_Component>
+   <K_SiteCode>1234</K_SiteCode>
+   <K_StoreLoc>1111_2000</K_StoreLoc>
+   <K_StoreLocDescription>Sun</K_StoreLocDescription>
+   <K_CostCenter>200000</K_CostCenter>
+   <K_Capacity>10000.0</K_Capacity>
+   <K_MaxContent>12500.0</K_MaxContent>
+   <K_MinContent>3000.0</K_MinContent>
+   <K_AvgContent>1000.0</K_AvgContent>
+   <K_BWMainVersion>65</K_BWMainVersion>
+   <K_BWMainVersionDate>14.12.2010</K_BWMainVersionDate>
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>1</K_Component>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_StoreLoc>1111_2000</K_StoreLoc>
+   <K_StoreLocDescription>Sun</K_StoreLocDescription>
+   <K_CostCenter>200000</K_CostCenter>
+   <K_Capacity>10000.0</K_Capacity>
+   <K_MaxContent>12500.0</K_MaxContent>
+   <K_MinContent>3000.0</K_MinContent>
+   <K_AvgContent>1000.0</K_AvgContent>
+   <K_BWMainVersion>65</K_BWMainVersion>
+   <K_BWMainVersionDate>14.12.2010</K_BWMainVersionDate>
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>2</K_Component>
+   <K_SiteCode>1234</K_SiteCode>
+   <K_StoreLoc>2222_2000</K_StoreLoc>
+   <K_StoreLocDescription>Sun</K_StoreLocDescription>
+   <K_CostCenter>200000</K_CostCenter>
+   <K_Capacity>10000.0</K_Capacity>
+   <K_MaxContent>12500.0</K_MaxContent>
+   <K_MinContent>0.</K_MinContent>
+   <K_AvgContent>1000.0</K_AvgContent>
+   <K_BWMainVersion>65</K_BWMainVersion>
+   <K_BWMainVersionDate>14.12.2010</K_BWMainVersionDate>
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>2</K_Component>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_StoreLoc>2222_2000</K_StoreLoc>
+   <K_StoreLocDescription>Sun</K_StoreLocDescription>
+   <K_CostCenter>200000</K_CostCenter>
+   <K_Capacity>10000.0</K_Capacity>
+   <K_MaxContent>12500.0</K_MaxContent>
+   <K_MinContent>0.</K_MinContent>
+   <K_AvgContent>-1.0</K_AvgContent>
+   <K_BWMainVersion>65</K_BWMainVersion>
+   <K_BWMainVersionDate>14.12.2010</K_BWMainVersionDate>
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>3</K_Component>
+   <K_SiteCode>1234</K_SiteCode>
+   <K_StoreLoc>3333_2000</K_StoreLoc>
+   <K_StoreLocDescription>Sun</K_StoreLocDescription>
+   <K_CostCenter>200000</K_CostCenter>
+   <K_Capacity>10000.0</K_Capacity>
+   <K_MaxContent>12500.0</K_MaxContent>
+   <K_MinContent>3000.0</K_MinContent>
+   <K_AvgContent>1000.0</K_AvgContent>
+   <K_BWMainVersion>65</K_BWMainVersion>
+   <K_BWMainVersionDate>14.12.2010</K_BWMainVersionDate>
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>3</K_Component>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_StoreLoc>3333_2000</K_StoreLoc>
+   <K_StoreLocDescription>Sun</K_StoreLocDescription>
+   <K_CostCenter>200000</K_CostCenter>
+   <K_Capacity>1250.0</K_Capacity>
+   <K_MaxContent>1250.0</K_MaxContent>
+   <K_MinContent>300.0</K_MinContent>
+   <K_AvgContent>400.0</K_AvgContent>
+   <K_BWMainVersion>65</K_BWMainVersion>
+   <K_BWMainVersionDate>14.12.2010</K_BWMainVersionDate>
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>4</K_Component>
+   <K_SiteCode>1234</K_SiteCode>
+   <K_StoreLoc>4444_2000</K_StoreLoc>
+   <K_StoreLocDescription>Sun</K_StoreLocDescription>
+   <K_CostCenter>200000</K_CostCenter>
+   <K_Capacity>15000.0</K_Capacity>
+   <K_MaxContent>15500.0</K_MaxContent>
+   <K_MinContent>3000.0</K_MinContent>
+   <K_AvgContent>1000.0</K_AvgContent>
+   <K_BWMainVersion>65</K_BWMainVersion>
+   <K_BWMainVersionDate>14.12.2010</K_BWMainVersionDate>
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>4</K_Component>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_StoreLoc>4444_1000</K_StoreLoc>
+   <K_StoreLocDescription>Mars</K_StoreLocDescription>
+   <K_CostCenter>100000</K_CostCenter>
+   <K_Capacity>40000.0</K_Capacity>
+   <K_MaxContent>44000.0</K_MaxContent>
+   <K_MinContent>100.0</K_MinContent>
+   <K_AvgContent>1000.0</K_AvgContent>
+   <K_BWMainVersion>65</K_BWMainVersion>
+   <K_BWMainVersionDate>14.12.2010</K_BWMainVersionDate>
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>5</K_Component>
+   <K_SiteCode>1234</K_SiteCode>
+   <K_StoreLoc>5555_3000</K_StoreLoc>
+   <K_StoreLocDescription>Sun</K_StoreLocDescription>
+   <K_CostCenter>200000</K_CostCenter>
+   <K_Capacity>10000.0</K_Capacity>
+   <K_MaxContent>12500.0</K_MaxContent>
+   <K_MinContent>3000.0</K_MinContent>
+   <K_AvgContent>1000.0</K_AvgContent>
+   <K_BWMainVersion>65</K_BWMainVersion>
+   <K_BWMainVersionDate>14.12.2010</K_BWMainVersionDate>
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>5</K_Component>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_StoreLoc>5555_1000</K_StoreLoc>
+   <K_StoreLocDescription>Sun</K_StoreLocDescription>
+   <K_CostCenter>200000</K_CostCenter>
+   <K_Capacity>20000.0</K_Capacity>
+   <K_MaxContent>25000.0</K_MaxContent>
+   <K_MinContent>10000.0</K_MinContent>
+   <K_AvgContent>1000.0</K_AvgContent>
+   <K_BWMainVersion>65</K_BWMainVersion>
+   <K_BWMainVersionDate>14.12.2010</K_BWMainVersionDate>
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>5</K_Component>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_StoreLoc>5555_2000</K_StoreLoc>
+   <K_StoreLocDescription>Sun</K_StoreLocDescription>
+   <K_CostCenter>200000</K_CostCenter>
+   <K_Capacity>10000.0</K_Capacity>
+   <K_MaxContent>12500.0</K_MaxContent>
+   <K_MinContent>3000.0</K_MinContent>
+   <K_AvgContent>1000.0</K_AvgContent>
+   <K_BWMainVersion>65</K_BWMainVersion>
+   <K_BWMainVersionDate>14.12.2010</K_BWMainVersionDate>
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>6</K_Component>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_StoreLoc>Test</K_StoreLoc>
+   <K_StoreLocDescription />
+   <K_CostCenter />
+   <K_Capacity>5000.0</K_Capacity>
+   <K_MaxContent>5000.0</K_MaxContent>
+   <K_MinContent>1000.0</K_MinContent>
+   <K_AvgContent>2500.0</K_AvgContent>
+   <K_BWMainVersion />
+   <K_BWMainVersionDate />
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>7</K_Component>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_StoreLoc>Test</K_StoreLoc>
+   <K_StoreLocDescription />
+   <K_CostCenter />
+   <K_Capacity>1000.0</K_Capacity>
+   <K_MaxContent>1000.0</K_MaxContent>
+   <K_MinContent>100.0</K_MinContent>
+   <K_AvgContent>1000.0</K_AvgContent>
+   <K_BWMainVersion />
+   <K_BWMainVersionDate />
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>8</K_Component>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_StoreLoc>Test</K_StoreLoc>
+   <K_StoreLocDescription />
+   <K_CostCenter />
+   <K_Capacity>5000.0</K_Capacity>
+   <K_MaxContent>5000.0</K_MaxContent>
+   <K_MinContent>1000.0</K_MinContent>
+   <K_AvgContent>1150.0</K_AvgContent>
+   <K_BWMainVersion />
+   <K_BWMainVersionDate />
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>9</K_Component>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_StoreLoc>Test</K_StoreLoc>
+   <K_StoreLocDescription />
+   <K_CostCenter />
+   <K_Capacity>5000.0</K_Capacity>
+   <K_MaxContent>10000.0</K_MaxContent>
+   <K_MinContent>1000.0</K_MinContent>
+   <K_AvgContent>1500.0</K_AvgContent>
+   <K_BWMainVersion />
+   <K_BWMainVersionDate />
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>10</K_Component>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_StoreLoc>Test</K_StoreLoc>
+   <K_StoreLocDescription />
+   <K_CostCenter />
+   <K_Capacity>5000.0</K_Capacity>
+   <K_MaxContent>50000.0</K_MaxContent>
+   <K_MinContent>1000.0</K_MinContent>
+   <K_AvgContent>11500.0</K_AvgContent>
+   <K_BWMainVersion />
+   <K_BWMainVersionDate />
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>12</K_Component>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_StoreLoc>Test</K_StoreLoc>
+   <K_StoreLocDescription />
+   <K_CostCenter />
+   <K_Capacity>5500.0</K_Capacity>
+   <K_MaxContent>5500.0</K_MaxContent>
+   <K_MinContent>100.0</K_MinContent>
+   <K_AvgContent>100.0</K_AvgContent>
+   <K_BWMainVersion />
+   <K_BWMainVersionDate />
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>13</K_Component>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_StoreLoc>Test</K_StoreLoc>
+   <K_StoreLocDescription />
+   <K_CostCenter />
+   <K_Capacity>2000.0</K_Capacity>
+   <K_MaxContent>20000.0</K_MaxContent>
+   <K_MinContent>2000.0</K_MinContent>
+   <K_AvgContent>2500.0</K_AvgContent>
+   <K_BWMainVersion />
+   <K_BWMainVersionDate />
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>14</K_Component>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_StoreLoc>Test</K_StoreLoc>
+   <K_StoreLocDescription />
+   <K_CostCenter />
+   <K_Capacity>5000.0</K_Capacity>
+   <K_MaxContent>50000.0</K_MaxContent>
+   <K_MinContent>1000.0</K_MinContent>
+   <K_AvgContent>11500.0</K_AvgContent>
+   <K_BWMainVersion />
+   <K_BWMainVersionDate />
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>15</K_Component>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_StoreLoc>Test</K_StoreLoc>
+   <K_StoreLocDescription />
+   <K_CostCenter />
+   <K_Capacity>5000.0</K_Capacity>
+   <K_MaxContent>50000.0</K_MaxContent>
+   <K_MinContent>1000.0</K_MinContent>
+   <K_AvgContent>11500.0</K_AvgContent>
+   <K_BWMainVersion />
+   <K_BWMainVersionDate />
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>16</K_Component>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_StoreLoc>Test</K_StoreLoc>
+   <K_StoreLocDescription />
+   <K_CostCenter />
+   <K_Capacity>20000.0</K_Capacity>
+   <K_MaxContent>20000.0</K_MaxContent>
+   <K_MinContent>2000.0</K_MinContent>
+   <K_AvgContent>11500.0</K_AvgContent>
+   <K_BWMainVersion />
+   <K_BWMainVersionDate />
+        </K_Inventory>
+  <K_Inventory>
+   <K_Component>17</K_Component>
+   <K_SiteCode>9876</K_SiteCode>
+   <K_StoreLoc>Test</K_StoreLoc>
+   <K_StoreLocDescription />
+   <K_CostCenter />
+   <K_Capacity>20000.0</K_Capacity>
+   <K_MaxContent>20000.0</K_MaxContent>
+   <K_MinContent>2000.0</K_MinContent>
+   <K_AvgContent>11500.0</K_AvgContent>
+   <K_BWMainVersion />
+   <K_BWMainVersionDate />
+        </K_Inventory>
+    </Data>
+</Root>

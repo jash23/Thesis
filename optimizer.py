@@ -18,9 +18,9 @@ model.sparse_q = Set(model.V, dimen=2)
 model.sparse_j = Set(model.K)
 model.KP = Set(dimen=2)
 model.X = Var(model.KP)
-model.I = Var(model.K, within=NonNegativeReals)
+model.I = Var(model.K, within=NonNegativeReals, initialize=0)
 model.S = Var(model.N, within=NonNegativeReals)
-model.Q = Var(model.K, within=NonNegativeReals)
+model.Q = Var(model.K, within=NonNegativeReals, initialize=0)
 model.b = Var(model.N, within=Boolean)
 model.e = Param(model.K, model.P, default=0)
 model.h = Param(model.K, model.P, default=0)
@@ -39,7 +39,6 @@ model.r = Param(model.K, model.P, default=0)
 model.q = Param(model.K, model.N, model.V, default=0)
 model.Q_max = Param(model.K, default=0)
 model.s = Param(model.K, default=0)
-model.KPNR = Set(dimen=4)
 
 def objective_rule(model):
     #print(sum(model.a[k] * model.X[k, p] if model.a[k] != 0 else 0 for k,p in model.j.sparse_iterkeys()) + sum(model.a[k] * model.i[k] * model.I[k] for k in model.a.sparse_iterkeys()) + sum(model.a[k] * model.s[k] * model.Q[k] for k in model.a.iterkeys()))
@@ -138,30 +137,17 @@ model.x_const = Constraint(model.KP, rule=x_const)
 
 # instance = model.create_instance("optimizer.dat")
 # solver = SolverFactory('glpk')
+# # # solver_opt = dict()
+# # # solver_opt['log'] = 'recipe_test.log'
 # results = solver.solve(instance)
 # instance.solutions.load_from(results)
+# # print(value(instance.Q[10608407]))
+# # print(instance.demand_end[10608407].body.to_string())
+# # print(value(instance.demand_end[10608407].body))
 #
-# # with open('labels2.csv', 'w') as r:
-# #     # r.write("component, process, X\n")
-# #     for k,p in instance.KP:
-# #         r.write("%f,%s,%f\n" % (k,p,instance.X[k,p].value))
-# #     for k in instance.i.sparse_iterkeys():
-# #         r.write("%f,,%f\n" % (k,instance.I[k].value))
-# #     # for k in instance.K:
-# #     #     r.write("%f,%f\n" % (k,instance.Q[k].value))
-# with open('results.csv', 'w') as file:
-#     # r.write("component, process, X\n")
-#     for k,p,m,r in instance.KPNR:
-#         file.write("%f,%s,%s,%f,%f\n" % (k,p,m,r,instance.X[k,p].value))
-
-
-# with open('results.csv', 'a') as r:
-#     r.write("component, process, X, I, Q\n")
-#     for k,p in instance.j.sparse_iterkeys():
-#         r.write("%f, %s, %f,,\n" % (k,p,instance.X[k,p].value))
+# with open('labels2.csv', 'w') as r:
+#     r.write("component, process, value\n")
+#     for k,p in instance.KP:
+#         r.write("%f,%s,%f\n" % (k,p,instance.X[k,p].value))
 #     for k in instance.i.sparse_iterkeys():
-#         r.write("%f,,,%f,\n" % (k,instance.I[k].value))
-#     for k in instance.s.sparse_iterkeys():
-#         r.write("%f,,,,%f\n" % (k,instance.Q[k].value))
-
-def priority(model, k, p):
+#         r.write("%f,,%f\n" % (k,instance.I[k].value))

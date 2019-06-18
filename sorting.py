@@ -1,7 +1,7 @@
 import pandas as pd
 
-df = pd.read_csv('recipes.csv')
-df11 = pd.read_csv('production.csv')
+df = pd.read_csv('components.csv')
+df11 = pd.read_csv('demands.csv')
 df12 = pd.read_csv('costs.csv')
 
 # components
@@ -21,13 +21,16 @@ df['freq'] = df.groupby('P')['P'].transform('count')-1
 df4 = df[df['EP'] == 1].merge(df[df['EP'] != 1], on=['P'], how='left')
 df4.index += 1
 df4['C'] = df4.index
+df4 = df4[~df4.K_y.isna()]
 df5 = df4.filter(['K_x', 'P', 'C', 'R_x'])
 df5.columns = ['K', 'P', 'C', 'r_x']
+
 df5.to_csv('r_x.csv', index=False)
 
 # r_y
 df6 = df4.filter(['K_y', 'P', 'C', 'R_y'])
 df6.columns = ['K', 'P', 'C', 'r_y']
+#df6['r_y'] = df6['r_y'].abs()
 df6.to_csv('r_y.csv', index=False)
 
 # C
@@ -53,18 +56,24 @@ df10['g'] = 1
 df10.to_csv('param_g.csv', index=False)
 
 # param_d
-df13 = df11[df11['Site'] == 9876]
-df13 = df13[df13['Type'] == 10]
-df13 = df13.filter(['Component', '2012'])
+# df13 = df11[df11['Site'] == 9876]
+# df13 = df13[df13['Type'] == 10]
+df13 = df11.filter(['Component', '2015'])
 df13 = df13.groupby('Component').sum().reset_index()
 df13.columns = ['K', 'd']
 df13['d'] = df13['d']/1000
-df13.to_csv('param_d.csv', index=False)
+df13 = df13.sort_values('K')
+df37 = df13[df13['K'].isin(df2['K'])]
+df37.to_csv('param_d.csv', index=False)
 
 # param_a
-df14 = df12.filter(['ComponentCM1', 'SpecificCM1'])
+df14 = df12.filter(['Component', 'SpecificCM1'])
+df14 = df14.groupby('Component').sum().reset_index()
 df14.columns = ['K', 'a']
-df14.to_csv('param_a.csv', index=False)
+df14['a'] = df14['a']/1000
+df14 = df14.sort_values('K')
+df36 = df14[df14['K'].isin(df2['K'])]
+df36.to_csv('param_a.csv', index=False)
 
 # param_e (all outputs)
 df15 = df[df['R'] > 0]
@@ -93,14 +102,14 @@ df19.to_csv('set_of_transfers.csv', index=False)
 df20 = df[df['R'] < 0]
 df21 = df[~df['K'].isin(df20['K'])]
 df21 = df21.filter(['K', 'P'])
-df22 = df21[df21['K'].isin(df13['K'])]
+df22 = df21[df21['K'].isin(df37['K'])]
 df22['j'] = 1
 df22 = df22.sort_values('K')
 df22.to_csv('param_j.csv', index=False)
 
 # param_i (components having demands and -R)
 df24 = df[df['R'] < 0]
-df25 = df24[df24['K'].isin(df13['K'])]
+df25 = df24[df24['K'].isin(df37['K'])]
 df25 = df25.filter(['K'])
 df25['i'] = 1
 df25 = df25.drop_duplicates('K')
@@ -108,14 +117,16 @@ df25 = df25.sort_values('K')
 df25.to_csv('param_i.csv', index=False)
 
 # param_l
-df26 = df13.filter(['K'])
+df26 = df37.filter(['K'])
 df26['l'] = 1
 df26.to_csv('param_l.csv', index=False)
 
 # param_u
-df27 = df.filter(['P', 'u'])
-df27 = df27.drop_duplicates('P')
+df27 = df.filter(['EP', 'P', 'u'])
+df27 = df27[df27['EP'] == 1]
+df27 = df27.filter(['P', 'u'])
 df27['u'] = df27['u']/1000
+df27.loc[df27['u'] == 0, 'u'] = 1
 df27.to_csv('param_u.csv', index=False)
 
 # param_o
@@ -151,5 +162,15 @@ df32 = df[df['R'] > 0]
 df32 = df32.filter(['K'])
 df32['Q_max'] = 1000000
 df32.to_csv('param_Q_max.csv', index=False)
+
+# param_s (components having demands and only +R)
+df33 = df[df['R'] < 0]
+df34 = df[~df['K'].isin(df33['K'])]
+df34 = df34.filter('K')
+df35 = df34[df34['K'].isin(df13['K'])]
+df35['s'] = 1
+df35 = df35.drop_duplicates('K')
+df35 = df35.sort_values('K')
+df35.to_csv('param_s.csv', index=False)
 
 
